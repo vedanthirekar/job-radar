@@ -1,1 +1,442 @@
 name,ats,slug,source,added
+15Five,lever,15five,hand,2026-11-26
+1Password,ashby,1password,hand,2026-11-26
+Abnormal Security,greenhouse,abnormalsecurity,hand,2026-11-26
+Abridge,ashby,abridge,hand,2026-11-26
+Acorns,ashby,acorns,hand,2026-11-26
+Affirm,greenhouse,affirm,hand,2026-11-26
+Agility Robotics,greenhouse,agilityrobotics,hand,2026-11-26
+Airbyte,ashby,airbyte,hand,2026-11-26
+Airtable,greenhouse,airtable,hand,2026-11-26
+Algolia,greenhouse,algolia,hand,2026-11-26
+Allocate,ashby,allocate,hand,2026-11-26
+Alloy,greenhouse,alloy,hand,2026-11-26
+Alma,ashby,alma,hand,2026-11-26
+Alpaca,greenhouse,alpaca,hand,2026-11-26
+Ambience Healthcare,ashby,ambiencehealthcare,hand,2026-11-26
+Amplitude,ashby,amplitude,hand,2026-11-26
+AngelList,lever,angellist,hand,2026-11-26
+Anomalo,ashby,anomalo,hand,2026-11-26
+Anterior,ashby,anterior,hand,2026-11-26
+Anthropic,greenhouse,anthropic,hand,2026-11-26
+Anyscale,ashby,anyscale,hand,2026-11-26
+Apollo,greenhouse,apollo,hand,2026-11-26
+Apollo GraphQL,ashby,apollo-graphql,hand,2026-11-26
+Appian,greenhouse,appian,hand,2026-11-26
+Applied Intuition,ashby,applied,hand,2026-11-26
+Appodeal,greenhouse,appodeal,hand,2026-11-26
+Arcadia,lever,arcadia,hand,2026-11-26
+Arch,ashby,arch,hand,2026-11-26
+Archer Aviation,greenhouse,archer,hand,2026-11-26
+Arize AI,greenhouse,arizeai,hand,2026-11-26
+Artisan,ashby,artisan,hand,2026-11-26
+Asana,greenhouse,asana,hand,2026-11-26
+Ashby,ashby,ashby,hand,2026-11-26
+Astranis,greenhouse,astranis,hand,2026-11-26
+Astronomer,ashby,astronomer,hand,2026-11-26
+At Bay,greenhouse,atbay,hand,2026-11-26
+Atlan,ashby,atlan,hand,2026-11-26
+Atomic,ashby,atomic,hand,2026-11-26
+Attention,ashby,attention,hand,2026-11-26
+Attentive,greenhouse,attentive,hand,2026-11-26
+Attio,ashby,attio,hand,2026-11-26
+Aurora Solar,ashby,aurorasolar,hand,2026-11-26
+Avante,greenhouse,avante,hand,2026-11-26
+Baseten,ashby,baseten,hand,2026-11-26
+Beamery,ashby,beamery,hand,2026-11-26
+Benchling,ashby,benchling,hand,2026-11-26
+Bestow,ashby,bestow,hand,2026-11-26
+Betterment,greenhouse,betterment,hand,2026-11-26
+Bitwarden,greenhouse,bitwarden,hand,2026-11-26
+Blend,greenhouse,blend,hand,2026-11-26
+Brainly,ashby,brainly,hand,2026-11-26
+Braintrust,ashby,braintrust,hand,2026-11-26
+Branch,greenhouse,branch,hand,2026-11-26
+Braze,greenhouse,braze,hand,2026-11-26
+Brex,greenhouse,brex,hand,2026-11-26
+Brigit,ashby,brigit,hand,2026-11-26
+Bubble,ashby,bubble,hand,2026-11-26
+Buildkite,greenhouse,buildkite,hand,2026-11-26
+Built In,greenhouse,builtin,hand,2026-11-26
+CAIS,greenhouse,cais,hand,2026-11-26
+Calendly,greenhouse,calendly,hand,2026-11-26
+Campfire,ashby,campfire,hand,2026-11-26
+Candid Health,ashby,candidhealth,hand,2026-11-26
+Canvas Medical,lever,canvasmedical,hand,2026-11-26
+Carrot Fertility,greenhouse,carrotfertility,hand,2026-11-26
+Carta,greenhouse,carta,hand,2026-11-26
+Celonis,greenhouse,celonis,hand,2026-11-26
+Cerebras,ashby,cerebras,hand,2026-11-26
+Chainguard,greenhouse,chainguard,hand,2026-11-26
+Character AI,ashby,character,hand,2026-11-26
+Check Technologies,ashby,check-technologies,hand,2026-11-26
+Checkr,greenhouse,checkr,hand,2026-11-26
+Chime,greenhouse,chime,hand,2026-11-26
+ChowNow,lever,chownow,hand,2026-11-26
+Chromatic,ashby,chromatic,hand,2026-11-26
+Circle Logistics,ashby,circle,hand,2026-11-26
+CircleCI,greenhouse,circleci,hand,2026-11-26
+Clair,ashby,clair,hand,2026-11-26
+ClassDojo,ashby,classdojo,hand,2026-11-26
+Clerk,ashby,clerk,hand,2026-11-26
+ClickHouse,ashby,clickhouse,hand,2026-11-26
+ClickUp,ashby,clickup,hand,2026-11-26
+Close,ashby,close,hand,2026-11-26
+Cloudflare,greenhouse,cloudflare,hand,2026-11-26
+Clover Health,greenhouse,cloverhealth,hand,2026-11-26
+Coalition,greenhouse,coalition,hand,2026-11-26
+Cockroach Labs,greenhouse,cockroachlabs,hand,2026-11-26
+Codat,ashby,codat,hand,2026-11-26
+Coder,ashby,coder,hand,2026-11-26
+CodeRabbit,ashby,coderabbit,hand,2026-11-26
+Cognition,ashby,cognition,hand,2026-11-26
+Cohere,ashby,cohere,hand,2026-11-26
+Cohere Health,greenhouse,coherehealth,hand,2026-11-26
+Collibra,greenhouse,collibra,hand,2026-11-26
+Color Health,ashby,color-health,hand,2026-11-26
+Column,ashby,column,hand,2026-11-26
+Comet,greenhouse,comet,hand,2026-11-26
+Commure,ashby,commure,hand,2026-11-26
+Cooper AI,ashby,cooper-ai,hand,2026-11-26
+CoreWeave,greenhouse,coreweave,hand,2026-11-26
+Cortex,greenhouse,cortex,hand,2026-11-26
+Coupa,lever,coupa,hand,2026-11-26
+Coursera,greenhouse,coursera,hand,2026-11-26
+Cresta,greenhouse,cresta,hand,2026-11-26
+Crusoe,ashby,crusoe,hand,2026-11-26
+Crux,ashby,crux,hand,2026-11-26
+Cube,ashby,cube,hand,2026-11-26
+Culture Amp,greenhouse,cultureamp,hand,2026-11-26
+Current,greenhouse,current,hand,2026-11-26
+Cursor,ashby,cursor,hand,2026-11-26
+Customer io,greenhouse,customerio,hand,2026-11-26
+DailyPay,ashby,dailypay,hand,2026-11-26
+Databricks,greenhouse,databricks,hand,2026-11-26
+Datadog,greenhouse,datadog,hand,2026-11-26
+Dave,ashby,dave,hand,2026-11-26
+Decagon,ashby,decagon,hand,2026-11-26
+Deepnote,ashby,deepnote,hand,2026-11-26
+Descope,greenhouse,descope,hand,2026-11-26
+Descript,greenhouse,descript,hand,2026-11-26
+Develop Health,ashby,develop-health,hand,2026-11-26
+Dexterity,lever,dexterity,hand,2026-11-26
+DISCO,greenhouse,disco,hand,2026-11-26
+Drata,ashby,drata,hand,2026-11-26
+Dremio,greenhouse,dremio,hand,2026-11-26
+DriveWealth,greenhouse,drivewealth,hand,2026-11-26
+Duolingo,greenhouse,duolingo,hand,2026-11-26
+Dust,ashby,dust,hand,2026-11-26
+Dyno Therapeutics,greenhouse,dynotherapeutics,hand,2026-11-26
+E2B,ashby,e2b,hand,2026-11-26
+Earnin,greenhouse,earnin,hand,2026-11-26
+Elastic,greenhouse,elastic,hand,2026-11-26
+Elation Health,greenhouse,elationhealth,hand,2026-11-26
+ElevenLabs,ashby,elevenlabs,hand,2026-11-26
+Enpal,ashby,enpal,hand,2026-11-26
+Etched,ashby,etched,hand,2026-11-26
+Ethos,greenhouse,ethos,hand,2026-11-26
+Everlaw,greenhouse,everlaw,hand,2026-11-26
+Extend,greenhouse,extend,hand,2026-11-26
+Factory,ashby,factory,hand,2026-11-26
+Faire,greenhouse,faire,hand,2026-11-26
+Fastly,greenhouse,fastly,hand,2026-11-26
+Fathom,ashby,fathom,hand,2026-11-26
+Federato,greenhouse,federato,hand,2026-11-26
+Fieldwire,greenhouse,fieldwire,hand,2026-11-26
+Figma,greenhouse,figma,hand,2026-11-26
+Figure AI,greenhouse,figureai,hand,2026-11-26
+Filevine,lever,filevine,hand,2026-11-26
+Finch,ashby,finch,hand,2026-11-26
+Findem,lever,findem,hand,2026-11-26
+Fireworks AI,ashby,fireworks,hand,2026-11-26
+Fivetran,greenhouse,fivetran,hand,2026-11-26
+Flatiron Health,greenhouse,flatironhealth,hand,2026-11-26
+Flex,greenhouse,flex,hand,2026-11-26
+Flexport,greenhouse,flexport,hand,2026-11-26
+Flock Freight,ashby,flock,hand,2026-11-26
+FloQast,lever,floqast,hand,2026-11-26
+FlutterFlow,ashby,flutterflow,hand,2026-11-26
+Fly io,lever,fly,hand,2026-11-26
+Forter,greenhouse,forter,hand,2026-11-26
+Forward,greenhouse,forward,hand,2026-11-26
+Found,greenhouse,found,hand,2026-11-26
+Foundry,greenhouse,foundry,hand,2026-11-26
+FourKites,greenhouse,fourkites,hand,2026-11-26
+Freenome,greenhouse,freenome,hand,2026-11-26
+FullStory,ashby,fullstory,hand,2026-11-26
+Gainsight,ashby,gainsight,hand,2026-11-26
+Galileo,greenhouse,galileo,hand,2026-11-26
+Gamma,ashby,gamma,hand,2026-11-26
+Garner Health,greenhouse,garnerhealth,hand,2026-11-26
+Generate Biomedicines,greenhouse,generatebiomedicines,hand,2026-11-26
+GitLab,greenhouse,gitlab,hand,2026-11-26
+Glide,greenhouse,glide,hand,2026-11-26
+Gopuff,lever,gopuff,hand,2026-11-26
+Gorgias,ashby,gorgias,hand,2026-11-26
+Gradient,ashby,gradient,hand,2026-11-26
+Gradient AI,greenhouse,gradientai,hand,2026-11-26
+Grafana Labs,greenhouse,grafanalabs,hand,2026-11-26
+Granola,ashby,granola,hand,2026-11-26
+Greenhouse,greenhouse,greenhouse,hand,2026-11-26
+Greptile,ashby,greptile,hand,2026-11-26
+Grow Therapy,ashby,grow-therapy,hand,2026-11-26
+Gusto,greenhouse,gusto,hand,2026-11-26
+Handshake,greenhouse,handshake,hand,2026-11-26
+Harmony AI,ashby,harmony,hand,2026-11-26
+Harvey,ashby,harvey,hand,2026-11-26
+Headway,ashby,headway,hand,2026-11-26
+Health Gorilla,ashby,healthgorilla,hand,2026-11-26
+Healthie,greenhouse,healthie,hand,2026-11-26
+Hellyeah AI,ashby,hellyeah,hand,2026-11-26
+Help Scout,ashby,helpscout,hand,2026-11-26
+Hermeus,lever,hermeus,hand,2026-11-26
+Hex,ashby,hex,hand,2026-11-26
+Highnote,greenhouse,highnote,hand,2026-11-26
+Hightouch,ashby,hightouch,hand,2026-11-26
+Hims and Hers,ashby,hims-and-hers,hand,2026-11-26
+Hinge Health,ashby,hinge-health,hand,2026-11-26
+Honeycomb,greenhouse,honeycomb,hand,2026-11-26
+Housecall Pro,greenhouse,housecall,hand,2026-11-26
+Hyperproof,greenhouse,hyperproof,hand,2026-11-26
+Hyperscience,ashby,hyperscience,hand,2026-11-26
+Imbue,greenhouse,imbue,hand,2026-11-26
+Inceptive,greenhouse,inceptive,hand,2026-11-26
+incident io,ashby,incident,hand,2026-11-26
+Included Health,lever,includedhealth,hand,2026-11-26
+Infinitus,ashby,infinitus,hand,2026-11-26
+Inflection AI,greenhouse,inflectionai,hand,2026-11-26
+InfluxData,ashby,influxdata,hand,2026-11-26
+InMarket,greenhouse,inmarket,hand,2026-11-26
+Inngest,ashby,inngest,hand,2026-11-26
+Insitro,ashby,insitro,hand,2026-11-26
+Instacart,greenhouse,instacart,hand,2026-11-26
+Intercom,greenhouse,intercom,hand,2026-11-26
+Iterable,ashby,iterable,hand,2026-11-26
+JFrog,greenhouse,jfrog,hand,2026-11-26
+Jobber,ashby,jobber,hand,2026-11-26
+Judi Health,greenhouse,judihealth,hand,2026-11-26
+Juicebox,ashby,juicebox,hand,2026-11-26
+Juniper Square,ashby,junipersquare,hand,2026-11-26
+Justworks,greenhouse,justworks,hand,2026-11-26
+Keebler Health,ashby,keebler-health,hand,2026-11-26
+Kestra,ashby,kestra,hand,2026-11-26
+Khan Academy,greenhouse,khanacademy,hand,2026-11-26
+Klaviyo,greenhouse,klaviyo,hand,2026-11-26
+Knock,greenhouse,knock,hand,2026-11-26
+Kodiak Robotics,greenhouse,kodiak,hand,2026-11-26
+Komodo Health,greenhouse,komodohealth,hand,2026-11-26
+Kong,ashby,kong,hand,2026-11-26
+Labelbox,greenhouse,labelbox,hand,2026-11-26
+Ladder,ashby,ladder,hand,2026-11-26
+Lambda,ashby,lambda,hand,2026-11-26
+LanceDB,ashby,lancedb,hand,2026-11-26
+LangChain,ashby,langchain,hand,2026-11-26
+Lattice,greenhouse,lattice,hand,2026-11-26
+LaunchDarkly,greenhouse,launchdarkly,hand,2026-11-26
+Layer Health,greenhouse,layerhealth,hand,2026-11-26
+Lemonade,ashby,lemonade,hand,2026-11-26
+Lightdash,ashby,lightdash,hand,2026-11-26
+Lightmatter,greenhouse,lightmatter,hand,2026-11-26
+Lightning AI,greenhouse,lightningai,hand,2026-11-26
+Linear,ashby,linear,hand,2026-11-26
+Lithic,greenhouse,lithic,hand,2026-11-26
+LiveKit,ashby,livekit,hand,2026-11-26
+LlamaIndex,ashby,llamaindex,hand,2026-11-26
+Loadsmart,lever,loadsmart,hand,2026-11-26
+Locus Robotics,greenhouse,locusrobotics,hand,2026-11-26
+LogicGate,greenhouse,logicgate,hand,2026-11-26
+LogRocket,lever,logrocket,hand,2026-11-26
+Lyra Health,lever,lyrahealth,hand,2026-11-26
+Machina Labs,ashby,machina-labs,hand,2026-11-26
+Magic,greenhouse,magic,hand,2026-11-26
+Make,greenhouse,make,hand,2026-11-26
+Material Security,ashby,materialsecurity,hand,2026-11-26
+Maven Clinic,greenhouse,mavenclinic,hand,2026-11-26
+May Mobility,greenhouse,maymobility,hand,2026-11-26
+Melio,greenhouse,melio,hand,2026-11-26
+Mercor,ashby,mercor,hand,2026-11-26
+Mercury,greenhouse,mercury,hand,2026-11-26
+Merge,greenhouse,merge,hand,2026-11-26
+Merlin Labs,lever,merlinlabs,hand,2026-11-26
+Metabase,lever,metabase,hand,2026-11-26
+Middesk,ashby,middesk,hand,2026-11-26
+Mintlify,ashby,mintlify,hand,2026-11-26
+Miro,ashby,miro,hand,2026-11-26
+Mixpanel,greenhouse,mixpanel,hand,2026-11-26
+Modal,ashby,modal,hand,2026-11-26
+Modern Health,greenhouse,modernhealth,hand,2026-11-26
+Modern Treasury,ashby,moderntreasury,hand,2026-11-26
+MongoDB,greenhouse,mongodb,hand,2026-11-26
+MotherDuck,ashby,motherduck,hand,2026-11-26
+Motive,greenhouse,motive,hand,2026-11-26
+Muon Space,greenhouse,muonspace,hand,2026-11-26
+Mux,ashby,mux,hand,2026-11-26
+n8n,ashby,n8n,hand,2026-11-26
+Nabla,ashby,nabla,hand,2026-11-26
+Nango,ashby,nango,hand,2026-11-26
+Nebius,greenhouse,nebius,hand,2026-11-26
+Neon,ashby,neon,hand,2026-11-26
+Neptune AI,ashby,neptune,hand,2026-11-26
+Netlify,greenhouse,netlify,hand,2026-11-26
+New Relic,greenhouse,newrelic,hand,2026-11-26
+Notable Health,ashby,notable,hand,2026-11-26
+Notion,ashby,notion,hand,2026-11-26
+Numeric,ashby,numeric,hand,2026-11-26
+Nuro,greenhouse,nuro,hand,2026-11-26
+Observe AI,greenhouse,observeai,hand,2026-11-26
+Okta,greenhouse,okta,hand,2026-11-26
+Olo,lever,olo,hand,2026-11-26
+Omada Health,greenhouse,omadahealth,hand,2026-11-26
+Omni Analytics,ashby,omni,hand,2026-11-26
+One Medical,greenhouse,onemedical,hand,2026-11-26
+OpenAI,ashby,openai,hand,2026-11-26
+Openly,ashby,openly,hand,2026-11-26
+OpenSesame,greenhouse,opensesame,hand,2026-11-26
+OpenSpace,greenhouse,openspace,hand,2026-11-26
+OpsLevel,ashby,opslevel,hand,2026-11-26
+Orca Security,greenhouse,orcasecurity,hand,2026-11-26
+Oscar Health,greenhouse,oscar,hand,2026-11-26
+Otter AI,greenhouse,otterai,hand,2026-11-26
+Otter Products,greenhouse,otter,hand,2026-11-26
+Outreach,lever,outreach,hand,2026-11-26
+Outschool,ashby,outschool,hand,2026-11-26
+Overstory,ashby,overstory,hand,2026-11-26
+Owkin,ashby,owkin,hand,2026-11-26
+Owner com,ashby,owner,hand,2026-11-26
+Pacaso,greenhouse,pacaso,hand,2026-11-26
+Pagaya,greenhouse,pagaya,hand,2026-11-26
+PagerDuty,greenhouse,pagerduty,hand,2026-11-26
+Palmetto,greenhouse,palmetto,hand,2026-11-26
+Paradox,ashby,paradox,hand,2026-11-26
+Paraform,ashby,paraform,hand,2026-11-26
+Patch,greenhouse,patch,hand,2026-11-26
+PathAI,greenhouse,pathai,hand,2026-11-26
+Patronus AI,ashby,patronus,hand,2026-11-26
+Payactiv,lever,payactiv,hand,2026-11-26
+Pendo,greenhouse,pendo,hand,2026-11-26
+Perplexity,ashby,perplexity,hand,2026-11-26
+Persona,ashby,persona,hand,2026-11-26
+Pie Insurance,greenhouse,pieinsurance,hand,2026-11-26
+Pinecone,ashby,pinecone,hand,2026-11-26
+Plaid,ashby,plaid,hand,2026-11-26
+PlanetScale,greenhouse,planetscale,hand,2026-11-26
+Planhat,ashby,planhat,hand,2026-11-26
+Poolside,ashby,poolside,hand,2026-11-26
+Poshmark,greenhouse,poshmark,hand,2026-11-26
+PostHog,ashby,posthog,hand,2026-11-26
+Prefect,ashby,prefect,hand,2026-11-26
+Prismatic,greenhouse,prismatic,hand,2026-11-26
+Project44,greenhouse,project44,hand,2026-11-26
+Public,greenhouse,public,hand,2026-11-26
+Pulley,greenhouse,pulley,hand,2026-11-26
+Qumulo,ashby,qumulo,hand,2026-11-26
+Railway,ashby,railway,hand,2026-11-26
+Rain,ashby,rain,hand,2026-11-26
+Ramp,greenhouse,ramp,hand,2026-11-26
+Read AI,ashby,read-ai,hand,2026-11-26
+Redis,ashby,redis,hand,2026-11-26
+Reducto,ashby,reducto,hand,2026-11-26
+Regie AI,greenhouse,regie,hand,2026-11-26
+Relativity,greenhouse,relativity,hand,2026-11-26
+Relevance AI,ashby,relevanceai,hand,2026-11-26
+Reliable Robotics,ashby,reliable-robotics,hand,2026-11-26
+Remote,greenhouse,remote,hand,2026-11-26
+Render,ashby,render,hand,2026-11-26
+Replit,ashby,replit,hand,2026-11-26
+Resend,ashby,resend,hand,2026-11-26
+Revi,lever,revi,hand,2026-11-26
+Rillet,ashby,rillet,hand,2026-11-26
+Rima,ashby,rima,hand,2026-11-26
+Riskified,greenhouse,riskified,hand,2026-11-26
+Robinhood,greenhouse,robinhood,hand,2026-11-26
+Rula Health,ashby,rula,hand,2026-11-26
+Runway,ashby,runway,hand,2026-11-26
+Samsara,greenhouse,samsara,hand,2026-11-26
+Sardine,ashby,sardine,hand,2026-11-26
+Saronic,ashby,saronic,hand,2026-11-26
+Scale AI,greenhouse,scaleai,hand,2026-11-26
+Secureframe,ashby,secureframe,hand,2026-11-26
+SeekOut,greenhouse,seekout,hand,2026-11-26
+Self Financial,greenhouse,selffinancial,hand,2026-11-26
+Semgrep,ashby,semgrep,hand,2026-11-26
+Sendbird,greenhouse,sendbird,hand,2026-11-26
+Sentry,ashby,sentry,hand,2026-11-26
+Sezzle,greenhouse,sezzle,hand,2026-11-26
+SF Compute,ashby,sfcompute,hand,2026-11-26
+Shield AI,greenhouse,shield,hand,2026-11-26
+Sierra,ashby,sierra,hand,2026-11-26
+Sift,ashby,sift,hand,2026-11-26
+Sigma Computing,greenhouse,sigmacomputing,hand,2026-11-26
+SingleStore,greenhouse,singlestore,hand,2026-11-26
+Sixfold,greenhouse,sixfold,hand,2026-11-26
+Skydio,ashby,skydio,hand,2026-11-26
+Smartsheet,greenhouse,smartsheet,hand,2026-11-26
+Snorkel AI,greenhouse,snorkelai,hand,2026-11-26
+Snowflake,ashby,snowflake,hand,2026-11-26
+Snyk,ashby,snyk,hand,2026-11-26
+Socket,greenhouse,socket,hand,2026-11-26
+Socure,ashby,socure,hand,2026-11-26
+SoFi,greenhouse,sofi,hand,2026-11-26
+SonderMind,ashby,sondermind,hand,2026-11-26
+Span,ashby,span,hand,2026-11-26
+Speakeasy,ashby,speakeasy,hand,2026-11-26
+Spherecast,ashby,spherecast,hand,2026-11-26
+Squarespace,greenhouse,squarespace,hand,2026-11-26
+StackBlitz,greenhouse,stackblitz,hand,2026-11-26
+Starburst,greenhouse,starburst,hand,2026-11-26
+Steel,ashby,steel,hand,2026-11-26
+StockX,greenhouse,stockx,hand,2026-11-26
+Stream,ashby,stream,hand,2026-11-26
+Stripe,greenhouse,stripe,hand,2026-11-26
+Suki,greenhouse,suki,hand,2026-11-26
+Suno,ashby,suno,hand,2026-11-26
+Supabase,ashby,supabase,hand,2026-11-26
+Sword Health,greenhouse,swordhealth,hand,2026-11-26
+Synctera,ashby,synctera,hand,2026-11-26
+Synthesia,ashby,synthesia,hand,2026-11-26
+Tailscale,greenhouse,tailscale,hand,2026-11-26
+Talkspace,greenhouse,talkspace,hand,2026-11-26
+Teiko,ashby,teiko,hand,2026-11-26
+Temporal,ashby,temporal,hand,2026-11-26
+Tenstorrent,greenhouse,tenstorrent,hand,2026-11-26
+Tia,greenhouse,tia,hand,2026-11-26
+Tines,greenhouse,tines,hand,2026-11-26
+Titan,ashby,titan,hand,2026-11-26
+Toast,greenhouse,toast,hand,2026-11-26
+Together AI,greenhouse,togetherai,hand,2026-11-26
+Treasury Prime,greenhouse,treasuryprime,hand,2026-11-26
+Trigger dev,ashby,triggerdev,hand,2026-11-26
+Truveta,greenhouse,truveta,hand,2026-11-26
+Tutor Intelligence,ashby,tutor-intelligence,hand,2026-11-26
+Twilio,greenhouse,twilio,hand,2026-11-26
+Two Chairs,greenhouse,twochairs,hand,2026-11-26
+Uber Freight,greenhouse,uberfreight,hand,2026-11-26
+UiPath,ashby,uipath,hand,2026-11-26
+Unify,ashby,unify,hand,2026-11-26
+Unit,ashby,unit,hand,2026-11-26
+Unqork,greenhouse,unqork,hand,2026-11-26
+Unstructured,ashby,unstructured,hand,2026-11-26
+Upstart,greenhouse,upstart,hand,2026-11-26
+Vanta,ashby,vanta,hand,2026-11-26
+Varda Space,greenhouse,vardaspace,hand,2026-11-26
+Vast AI,ashby,vastai,hand,2026-11-26
+Vercel,greenhouse,vercel,hand,2026-11-26
+Virta Health,ashby,virtahealth,hand,2026-11-26
+Vitally,ashby,vitally,hand,2026-11-26
+Waabi,lever,waabi,hand,2026-11-26
+Warp,greenhouse,warp,hand,2026-11-26
+Watershed,greenhouse,watershed,hand,2026-11-26
+Wealthfront,lever,wealthfront,hand,2026-11-26
+Wealthsimple,ashby,wealthsimple,hand,2026-11-26
+Weaviate,ashby,weaviate,hand,2026-11-26
+Webflow,greenhouse,webflow,hand,2026-11-26
+Windward,ashby,windward,hand,2026-11-26
+Workato,greenhouse,workato,hand,2026-11-26
+WorkOS,ashby,workos,hand,2026-11-26
+Writer,ashby,writer,hand,2026-11-26
+Wynd Labs,ashby,wynd-labs,hand,2026-11-26
+Zapier,ashby,zapier,hand,2026-11-26
+Zed,ashby,zed,hand,2026-11-26
+Zilliz,ashby,zilliz,hand,2026-11-26
+Zip,ashby,zip,hand,2026-11-26
+Zus Health,lever,zushealth,hand,2026-11-26
