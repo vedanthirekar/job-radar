@@ -150,7 +150,7 @@ def main() -> int:
         return 1
 
     OUT.parent.mkdir(exist_ok=True)
-    with OUT.open("w", newline="") as f:
+    with OUT.open("w", encoding="utf-8", newline="") as f:
         w = csv.writer(f)
         w.writerow(["employer_norm", "employer_name", "tech_lcas", "perm", "h1b_dependent", "since_fy"])
         for k in sorted(tech, key=lambda k: -tech[k]):
@@ -164,7 +164,7 @@ def main() -> int:
     cands = [nice(display[k]) for k in tech
              if 1 <= tech[k] <= 80 and not dependent[k] and not BODY_SHOP.search(display[k])]
     cands.sort(key=lambda name: -tech[norm(name)])
-    CANDS.write_text("\n".join(cands[:5000]) + "\n")
+    CANDS.write_text("\n".join(cands[:5000]) + "\n", encoding="utf-8", newline="\n")
     print(f"{len(tech)} sponsoring employers; {min(len(cands), 5000)} watch-list candidates")
     return 0
 

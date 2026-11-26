@@ -36,7 +36,7 @@ def read_names(path: Path, source: str) -> list[tuple[str, str, str]]:
     if not path.exists():
         return []
     out = []
-    for line in path.read_text().splitlines():
+    for line in path.read_text(encoding="utf-8").splitlines():
         line = line.strip()
         if not line or line.startswith("#"):
             continue
@@ -90,11 +90,11 @@ def main() -> int:
     today = date.today()
     existing = []
     if COMPANIES.exists():
-        with COMPANIES.open() as f:
+        with COMPANIES.open(encoding="utf-8", newline="") as f:
             existing = list(csv.DictReader(f))
     known_names = {norm(r["name"]) for r in existing}
     known_boards = {(r["ats"], r["slug"]) for r in existing}
-    probed = json.loads(PROBED.read_text()) if PROBED.exists() else {}
+    probed = json.loads(PROBED.read_text(encoding="utf-8")) if PROBED.exists() else {}
 
     todo = []
     for name, source, override in read_names(HAND, "hand") + read_names(FROM_SPONSORS, "sponsors"):
@@ -130,13 +130,13 @@ def main() -> int:
 
     rows = existing + added
     rows.sort(key=lambda r: r["name"].lower())
-    with COMPANIES.open("w", newline="") as f:
+    with COMPANIES.open("w", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=FIELDS)
         w.writeheader()
         for r in rows:
             w.writerow({k: r.get(k, "") for k in FIELDS})
     PROBED.parent.mkdir(exist_ok=True)
-    PROBED.write_text(json.dumps(probed, indent=0, sort_keys=True))
+    PROBED.write_text(json.dumps(probed, indent=0, sort_keys=True), encoding="utf-8", newline="\n")
     print(f"added {len(added)}; watching {len(rows)} boards")
     return 0
 

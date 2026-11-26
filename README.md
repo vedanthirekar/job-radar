@@ -46,7 +46,7 @@ If alerts stop with a 429 error in the logs, make a free account on ntfy.sh, cre
 
 dol.gov blocks automated downloads, so this step is manual.
 
-1. Download the `LCA_Disclosure_Data_FY2026_Q*.xlsx` and `LCA_Disclosure_Data_FY2025_Q*.xlsx` files from the DOL OFLC performance data page (dol.gov/agencies/eta/foreign-labor/performance).
+1. Download all eight main LCA files, `LCA_Disclosure_Data_FY2026_Q1.xlsx` through `Q4` and `LCA_Disclosure_Data_FY2025_Q1.xlsx` through `Q4`, from the DOL OFLC performance data page (dol.gov/agencies/eta/foreign-labor/performance). Each file covers one quarter, so fewer files means less sponsor history.
 2. Put them in `data/dol/` in your local clone.
 3. Run `pip install python-calamine && python sponsors.py && python detect.py`.
 4. Commit `data/sponsors.csv`, `data/sponsor_candidates.txt`, `companies.csv` and `data/probed.json`, then push. Don't commit the xlsx files; they're too big for git and `.gitignore` already skips them.

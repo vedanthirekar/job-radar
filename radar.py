@@ -39,7 +39,7 @@ LOG_FIELDS = ["checked_at", "company", "title", "location", "url", "posted_at", 
 def load_companies() -> list[dict]:
     if not COMPANIES.exists():
         return []
-    with COMPANIES.open() as f:
+    with COMPANIES.open(encoding="utf-8", newline="") as f:
         rows = [r for r in csv.DictReader(f) if r.get("ats") and r.get("slug")]
     seen, out = set(), []
     for r in rows:
@@ -53,7 +53,7 @@ def load_companies() -> list[dict]:
 def load_sponsors() -> dict[str, dict]:
     if not SPONSORS.exists():
         return {}
-    with SPONSORS.open() as f:
+    with SPONSORS.open(encoding="utf-8", newline="") as f:
         return {r["employer_norm"]: r for r in csv.DictReader(f)}
 
 
@@ -77,7 +77,7 @@ def sponsor_tag(company: str, sponsors: dict) -> str:
 
 def load_state() -> dict:
     if STATE.exists():
-        return json.loads(STATE.read_text())
+        return json.loads(STATE.read_text(encoding="utf-8"))
     return {"boards": {}}
 
 
@@ -91,7 +91,7 @@ def save_state(state: dict) -> None:
         comma = "," if i < len(items) - 1 else ""
         lines.append(f"{json.dumps(k)}: {json.dumps(sorted(ids))}{comma}")
     lines += ["}", "}"]
-    STATE.write_text("\n".join(lines) + "\n")
+    STATE.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
 
 
 def _post(body: str, headers: dict) -> None:
@@ -141,7 +141,7 @@ def append_log(rows: list[dict]) -> None:
         return
     LOG.parent.mkdir(exist_ok=True)
     new = not LOG.exists()
-    with LOG.open("a", newline="") as f:
+    with LOG.open("a", encoding="utf-8", newline="") as f:
         w = csv.DictWriter(f, fieldnames=LOG_FIELDS)
         if new:
             w.writeheader()
