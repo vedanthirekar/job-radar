@@ -1,0 +1,782 @@
+# Companies to watch. One per line. detect.py finds their job board.
+# Force a board with:  Name | greenhouse:slug   (or lever:slug, ashby:slug)
+
+# --- Vedant's current targets ---
+Qumulo
+Snowplow
+FloQast
+Layer Health
+Precognition Labs
+Avante
+Virta Health
+Molten Cloud
+Tutor Intelligence
+Cooper AI
+Wynd Labs
+Omnisight
+Laocoon Health
+Direct Agents
+Harmony AI
+LiveReach AI
+Self Financial
+Appodeal
+Judi Health
+Hellyeah AI
+Rima
+Emberline
+Spherecast
+OpenSesame
+InMarket
+Settlor
+Teiko
+Interco
+XPerf
+Persona
+Ridge
+Revi
+Keebler Health
+Nebius
+Sia Partners
+Methix
+Stefanini
+Circle Logistics
+Otter Products
+Brattle
+
+# --- AI labs, AI infra, AI apps ---
+Anthropic
+OpenAI
+Cohere
+Mistral AI
+Perplexity
+Scale AI
+Hugging Face
+Together AI
+Fireworks AI
+Baseten
+Modal
+Replicate
+Anyscale
+Weights and Biases
+Pinecone
+Weaviate
+Chroma
+Qdrant
+LangChain
+LlamaIndex
+Arize AI
+Galileo
+Braintrust
+Humanloop
+Patronus AI
+Vellum
+Fixie
+Cresta
+Glean
+Harvey
+Hebbia
+Writer
+Jasper
+Copy AI
+Tome
+Gamma
+Runway
+ElevenLabs
+Suno
+Synthesia
+Descript
+Captions
+Character AI
+Inflection AI
+Adept
+Imbue
+Sierra
+Decagon
+Ada
+Forethought
+Moveworks
+Observe AI
+Cleanlab
+Snorkel AI
+Labelbox
+Lamini
+Predibase
+OctoAI
+Lambda
+CoreWeave
+Crusoe
+Cerebras
+SambaNova
+Groq
+Etched
+Lightmatter
+Tenstorrent
+Unstructured
+Reducto
+Extend
+Rossum
+Hyperscience
+Instabase
+Abridge
+Ambience Healthcare
+Suki
+Nabla
+Hippocratic AI
+Tempus
+PathAI
+Paige
+Owkin
+Cognition
+Codeium
+Windsurf
+Cursor
+Anysphere
+Replit
+Sourcegraph
+Tabnine
+Poolside
+Magic
+Augment Code
+Factory
+Warp
+Zed
+Greptile
+CodeRabbit
+Graphite
+Mintlify
+Stainless
+Speakeasy
+Fern
+Browserbase
+Steel
+Induced AI
+MultiOn
+Lindy
+Relevance AI
+Dust
+Retool
+Airplane
+Zapier
+n8n
+Make
+Tines
+Workato
+Clay
+Apollo
+Rox
+Unify
+11x
+Artisan
+Regie AI
+Outreach
+Gong
+Chorus
+Attention
+Avoma
+Fathom
+Otter AI
+Fireflies AI
+Granola
+Read AI
+Superhuman
+Notion
+Coda
+Mem
+Reflect
+Hex
+Deepnote
+Observable
+Mode
+Sigma Computing
+ThoughtSpot
+Omni Analytics
+Preset
+Metabase
+Lightdash
+Cube
+dbt Labs
+Fivetran
+Airbyte
+Hightouch
+Census
+RudderStack
+Segment
+Amplitude
+Mixpanel
+Heap
+PostHog
+June
+Statsig
+LaunchDarkly
+Eppo
+Optimizely
+Databricks
+Snowflake
+Confluent
+Starburst
+Dremio
+ClickHouse
+MotherDuck
+SingleStore
+Cockroach Labs
+PlanetScale
+Neon
+Supabase
+Convex
+Turso
+Xata
+Timescale
+InfluxData
+Redis
+MongoDB
+Couchbase
+Elastic
+Algolia
+Typesense
+Meilisearch
+Vespa
+Zilliz
+LanceDB
+Activeloop
+Pachyderm
+Dagster
+Prefect
+Astronomer
+Temporal
+Inngest
+Trigger dev
+Hatchet
+Windmill
+Kestra
+Mage
+Monte Carlo
+Bigeye
+Anomalo
+Great Expectations
+Atlan
+Alation
+Collibra
+Select Star
+Secoda
+Tecton
+Featureform
+Hopsworks
+Comet
+Neptune AI
+ClearML
+Determined AI
+Run AI
+Grid AI
+Lightning AI
+Gradient
+Paperspace
+Vast AI
+SF Compute
+Foundry
+Voltage Park
+
+# --- Dev tools, infra, security ---
+Vercel
+Netlify
+Render
+Railway
+Fly io
+Cloudflare
+Fastly
+DigitalOcean
+Linode
+HashiCorp
+Pulumi
+Spacelift
+env0
+Harness
+CircleCI
+Buildkite
+GitLab
+JFrog
+Snyk
+Semgrep
+Socket
+Chainguard
+Wiz
+Lacework
+Orca Security
+Abnormal Security
+Material Security
+Vanta
+Drata
+Secureframe
+Tailscale
+Teleport
+StrongDM
+1Password
+Bitwarden
+Okta
+Auth0
+Clerk
+Stytch
+WorkOS
+Descope
+FusionAuth
+Postman
+Kong
+Apollo GraphQL
+Hasura
+Grafana Labs
+Chronosphere
+Honeycomb
+Lightstep
+Datadog
+New Relic
+Sentry
+LogRocket
+FullStory
+Rollbar
+PagerDuty
+incident io
+FireHydrant
+Rootly
+Cortex
+OpsLevel
+Port
+Backstage
+Coder
+Gitpod
+Daytona
+E2B
+Codesandbox
+StackBlitz
+Expo
+Ionic
+Figma
+Framer
+Webflow
+Builder io
+Plasmic
+Storybook
+Chromatic
+Linear
+Height
+Shortcut
+ClickUp
+Asana
+Monday
+Airtable
+Smartsheet
+Miro
+Loom
+Calendly
+Cal com
+Zoom
+Vimeo
+Mux
+LiveKit
+Daily
+Agora
+Twilio
+Sendbird
+Stream
+Ably
+Pusher
+Knock
+Courier
+Novu
+Resend
+Postmark
+Mailgun
+SendGrid
+Customer io
+Braze
+Iterable
+Klaviyo
+Attentive
+Intercom
+Front
+Zendesk
+Freshworks
+Gorgias
+Kustomer
+Help Scout
+
+# --- Fintech, insurance ---
+Stripe
+Plaid
+Ramp
+Brex
+Mercury
+Rippling
+Gusto
+Deel
+Remote
+Justworks
+Carta
+Pulley
+AngelList
+Chime
+SoFi
+Robinhood
+Wealthfront
+Betterment
+Public
+Acorns
+Stash
+Dave
+MoneyLion
+Current
+Varo
+Marqeta
+Lithic
+Highnote
+Unit
+Treasury Prime
+Synctera
+Modern Treasury
+Moov
+Increase
+Column
+Alloy
+Sardine
+Socure
+Persona Identities
+Middesk
+Checkr
+Certn
+Sift
+Forter
+Riskified
+Signifyd
+Bolt
+Affirm
+Klarna
+Afterpay
+Sezzle
+Upstart
+Pagaya
+Blend
+Better
+Divvy Homes
+Opendoor
+Pacaso
+Bilt
+Flex
+Esusu
+Tally
+Melio
+BILL
+Tipalti
+Navan
+Airbase
+Spendesk
+Mesh Payments
+Pilot
+Bench
+Puzzle
+Digits
+Rillet
+Campfire
+Numeric
+Trovata
+Kyriba
+Coalition
+At Bay
+Corvus
+Lemonade
+Root Insurance
+Hippo
+Kin Insurance
+Next Insurance
+Pie Insurance
+Vouch
+Newfront
+Sproutt
+Ethos
+Ladder
+Bestow
+Federato
+Sixfold
+Gradient AI
+Clearcover
+Openly
+
+# --- Health tech ---
+Oscar Health
+Devoted Health
+Clover Health
+Alignment Healthcare
+Cityblock Health
+Oak Street Health
+One Medical
+Carbon Health
+Forward
+Ro
+Hims and Hers
+Nurx
+Thirty Madison
+Cerebral
+Headspace
+Lyra Health
+Spring Health
+Modern Health
+Talkspace
+Two Chairs
+Grow Therapy
+Alma
+Headway
+SonderMind
+Rula Health
+Brightline
+Included Health
+Transcarent
+Accolade
+Garner Health
+Curative
+Sword Health
+Hinge Health
+Omada Health
+Noom
+Calibrate
+Found
+Nourish
+Season Health
+Maven Clinic
+Kindbody
+Carrot Fertility
+Progyny
+Tia
+Elation Health
+Canvas Medical
+Healthie
+Athelas
+Commure
+Notable Health
+Infinitus
+Cohere Health
+Develop Health
+Anterior
+Candid Health
+Collectly
+Cedar
+Flywire
+Zus Health
+Particle Health
+Redox
+Health Gorilla
+Datavant
+Komodo Health
+Truveta
+Flatiron Health
+Color Health
+Grail
+Freenome
+Benchling
+Recursion
+Insitro
+Generate Biomedicines
+Inceptive
+Dyno Therapeutics
+
+# --- Commerce, logistics, marketplaces, other SaaS ---
+Shopify
+Faire
+Whatnot
+Poshmark
+ThredUp
+StockX
+GOAT
+Instacart
+DoorDash
+Gopuff
+Flexport
+Convoy
+Samsara
+Motive
+Project44
+FourKites
+Shippo
+ShipBob
+Flock Freight
+Loadsmart
+Transfix
+Uber Freight
+Stord
+Deliverr
+Locus Robotics
+Vecna Robotics
+Dexterity
+Covariant
+Figure AI
+Agility Robotics
+Skydio
+Zipline
+Anduril
+Shield AI
+Saronic
+Hadrian
+Machina Labs
+Applied Intuition
+Nuro
+Aurora
+Kodiak Robotics
+Gatik
+Waabi
+May Mobility
+Rivian
+Lucid
+Toast
+Square
+Olo
+Owner com
+ChowNow
+Squarespace
+Wix
+Duolingo
+Coursera
+Quizlet
+Chegg
+Brainly
+Khan Academy
+Outschool
+ClassDojo
+Handshake
+Lattice
+Culture Amp
+15Five
+Leapsome
+Greenhouse
+Ashby
+Lever
+Gem
+Paradox
+Eightfold
+Beamery
+SeekOut
+Findem
+Juicebox
+Mercor
+Paraform
+Wellfound
+Built In
+Hired
+Dover
+Ironclad
+Spellbook
+EvenUp
+Eve Legal
+Clio
+Filevine
+Everlaw
+Relativity
+DISCO
+Procore
+ServiceTitan
+Jobber
+Housecall Pro
+Buildertrend
+Fieldwire
+OpenSpace
+Veev
+Span
+Arcadia
+Palmetto
+Aurora Solar
+Enpal
+Octopus Energy
+Crux
+Pachama
+Watershed
+Persefoni
+Patch
+Overstory
+Planet
+Descartes Labs
+Windward
+Muon Space
+Astranis
+Relativity Space
+Firefly Aerospace
+Varda Space
+Hermeus
+Boom Supersonic
+Joby Aviation
+Archer Aviation
+Wisk
+Reliable Robotics
+Merlin Labs
+Xwing
+Built Technologies
+Bluefish
+Unqork
+Appian
+Airkit
+Tray io
+Celonis
+UiPath
+Automation Anywhere
+Hyperproof
+LogicGate
+AuditBoard
+Workiva
+Coupa
+Zip
+Vendr
+Tropic
+Productboard
+Pendo
+Gainsight
+Totango
+ChurnZero
+Vitally
+Catalyst
+Planhat
+HubSpot
+Pipedrive
+Close
+Attio
+Folk
+Affinity
+DealCloud
+Addepar
+Arch
+Juniper Square
+Allocate
+iCapital
+CAIS
+Titan
+Composer
+Alpaca
+DriveWealth
+Apex Fintech
+Atomic
+Wealthsimple
+Albert
+Brigit
+Earnin
+Even
+Branch
+DailyPay
+Payactiv
+Rain
+Clair
+Wagestream
+Check Technologies
+Zeal
+Finch
+Merge
+Codat
+Rutter
+Apideck
+Nango
+Paragon
+Prismatic
+Alloy Automation
+Pipedream
+Superblocks
+Appsmith
+Budibase
+ToolJet
+Glide
+Softr
+Bubble
+Adalo
+FlutterFlow
+Draftbit

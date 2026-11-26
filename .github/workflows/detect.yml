@@ -1,0 +1,30 @@
+name: Find company job boards
+
+on:
+  push:
+    branches: [main]
+    paths: [candidates.txt]
+  schedule:
+    - cron: "17 9 * * 1"   # Mondays
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: companies
+  cancel-in-progress: false
+
+jobs:
+  detect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Probe Greenhouse, Lever, Ashby
+        run: python detect.py
+      - name: Save companies
+        run: scripts/commit.sh "detect: update company boards" companies.csv data/probed.json
