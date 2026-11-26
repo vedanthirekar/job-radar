@@ -16,6 +16,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import ats
+import dashboard
 import filters
 from names import norm
 
@@ -229,6 +230,7 @@ def main() -> int:
 
     append_log(log_rows)
     save_state(state)
+    dashboard.build()
     print(f"done in {time.time() - t0:.0f}s: {len(results)} ok, {failed} failed, {first_time} new boards, "
           f"{len(candidates)} new jobs, {len(to_alert)} alerts")
     return 0
