@@ -27,4 +27,4 @@ jobs:
       - name: Probe Greenhouse, Lever, Ashby
         run: python detect.py
       - name: Save companies
-        run: scripts/commit.sh "detect: update company boards" companies.csv data/probed.json
+        run: scripts/commit.sh "detect update company boards" companies.csv data/probed.json

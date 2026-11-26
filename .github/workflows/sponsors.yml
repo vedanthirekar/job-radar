@@ -28,10 +28,10 @@ jobs:
       - name: Build sponsor list from DOL H-1B filings
         run: python sponsors.py
       - name: Save sponsor list
-        run: scripts/commit.sh "sponsors: refresh DOL data" data/sponsors.csv data/sponsor_candidates.txt
+        run: scripts/commit.sh "sponsors refresh DOL data" data/sponsors.csv data/sponsor_candidates.txt
       - name: Add sponsoring companies to the watch list
         run: |
           git pull -q --rebase origin main
           python detect.py
       - name: Save companies
-        run: scripts/commit.sh "detect: add sponsoring companies" companies.csv data/probed.json
+        run: scripts/commit.sh "detect add sponsoring companies" companies.csv data/probed.json
