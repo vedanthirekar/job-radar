@@ -10,7 +10,6 @@ It reads the public job feeds that Greenhouse, Lever and Ashby publish for every
 | --- | --- | --- |
 | Job radar | every 10 min | Checks every board in `companies.csv`, alerts on new matching jobs |
 | Find company job boards | when `candidates.txt` changes, and Mondays | Figures out which system each company uses and adds it to `companies.csv` |
-| Sponsor data | when `sponsors.py` changes, and monthly | Builds `data/sponsors.csv` from DOL H-1B filings and adds sponsoring companies to the watch list |
 
 Everything runs on GitHub's servers. Your laptop can be off.
 
@@ -43,6 +42,13 @@ If alerts stop with a 429 error in the logs, make a free account on ntfy.sh, cre
 - **Change filters:** edit `filters.py`. Run `python -m pytest -q` after changes.
 - **Test locally:** `DRY_RUN=1 python radar.py` prints alerts instead of sending them.
 
-## If the sponsor download fails
+## Sponsor data (run on your laptop about once a month)
 
-dol.gov sometimes blocks automated downloads. Download the `LCA_Disclosure_Data_FY2026_Q*.xlsx` files from the DOL OFLC performance data page, put them in `data/dol/` on your machine, run `pip install python-calamine && python sponsors.py && python detect.py`, and commit `data/sponsors.csv`, `data/sponsor_candidates.txt`, `companies.csv` and `data/probed.json`. Don't commit the xlsx files; they are too big for git.
+dol.gov blocks automated downloads, so this step is manual.
+
+1. Download the `LCA_Disclosure_Data_FY2026_Q*.xlsx` and `LCA_Disclosure_Data_FY2025_Q*.xlsx` files from the DOL OFLC performance data page (dol.gov/agencies/eta/foreign-labor/performance).
+2. Put them in `data/dol/` in your local clone.
+3. Run `pip install python-calamine && python sponsors.py && python detect.py`.
+4. Commit `data/sponsors.csv`, `data/sponsor_candidates.txt`, `companies.csv` and `data/probed.json`, then push. Don't commit the xlsx files; they're too big for git and `.gitignore` already skips them.
+
+After that, every alert shows the company's H-1B record, and the watch list includes small and mid-size tech companies that sponsored in 2025 and 2026.

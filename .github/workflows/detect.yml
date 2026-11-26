@@ -3,7 +3,7 @@ name: Find company job boards
 on:
   push:
     branches: [main]
-    paths: [candidates.txt]
+    paths: [candidates.txt, data/sponsor_candidates.txt]
   schedule:
     - cron: "17 9 * * 1"   # Mondays
   workflow_dispatch:

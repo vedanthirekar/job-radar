@@ -8,7 +8,9 @@ Also writes data/sponsor_candidates.txt: small and mid-size tech sponsors that
 are not H-1B dependent (filters out most staffing body shops). detect.py then
 checks whether they use Greenhouse, Lever or Ashby.
 
-If dol.gov blocks the download, drop the .xlsx files into data/dol/ and run again.
+dol.gov blocks automated downloads, so download the .xlsx files yourself
+from the DOL OFLC performance data page, put them in data/dol/, and run:
+    pip install python-calamine && python sponsors.py && python detect.py
 """
 from __future__ import annotations
 
@@ -16,7 +18,6 @@ import csv
 import io
 import re
 import sys
-import urllib.request
 from collections import defaultdict
 from pathlib import Path
 
@@ -26,11 +27,7 @@ ROOT = Path(__file__).parent
 OUT = ROOT / "data" / "sponsors.csv"
 CANDS = ROOT / "data" / "sponsor_candidates.txt"
 LOCAL = ROOT / "data" / "dol"
-BASE = "https://www.dol.gov/sites/dolgov/files/ETA/oflc/pdfs/"
 FISCAL_YEARS = [2026, 2025]
-UA = ("Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) "
-      "Chrome/130.0 Safari/537.36")
-
 TECH_SOC = re.compile(r"^(15-1\d{3}|15-2041|15-2051|15-2031)")
 BODY_SHOP = re.compile(r"\b(staffing|consultancy|consulting|consultants|infotech|it services|"
                        r"manpower|recruit|placement|outsourc)\b", re.I)
@@ -47,17 +44,9 @@ def col(header: list[str], *names: str) -> int | None:
 def download(name: str) -> bytes | None:
     local = LOCAL / name
     if local.exists():
-        print(f"  using local {name}")
+        print(f"  using {name}")
         return local.read_bytes()
-    try:
-        req = urllib.request.Request(BASE + name, headers={"User-Agent": UA})
-        with urllib.request.urlopen(req, timeout=600) as r:
-            data = r.read()
-        print(f"  downloaded {name} ({len(data) // 1_000_000} MB)")
-        return data
-    except Exception as e:
-        print(f"  skip {name}: {e}")
-        return None
+    return None
 
 
 def rows_of(xlsx: bytes):
@@ -157,7 +146,7 @@ def main() -> int:
                     perm[k] += 1
 
     if not got_any:
-        print("No DOL files could be downloaded. Put the .xlsx files in data/dol/ and run again.")
+        print("No DOL files found in data/dol/. Download them from the DOL OFLC performance data page first.")
         return 1
 
     OUT.parent.mkdir(exist_ok=True)
