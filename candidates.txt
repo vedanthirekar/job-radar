@@ -1,4 +1,4 @@
-# Companies to watch. One per line. detect.py finds their job board.
+# Companies to watch. One per line. detect.py finds their job board (runs on every change to this file).
 # Force a board with:  Name | greenhouse:slug   (or lever:slug, ashby:slug)
 
 # --- Vedant's current targets ---

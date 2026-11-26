@@ -1,6 +1,6 @@
 """Build data/sponsors.csv from the Department of Labor's public H-1B (LCA) filings.
 
-Every H-1B starts with a Labor Condition Application. DOL publishes all of them
+Every H-1B starts with a Labor Condition Application (LCA). DOL publishes all of them
 each quarter: employer, job title, job code (SOC), worksite, status.
 We count certified H-1B filings for software, data and AI job codes per employer.
 
