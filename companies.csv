@@ -1,37 +1,66 @@
 name,ats,slug,source,added
 15Five,lever,15five,hand,2026-11-26
 1Password,ashby,1password,hand,2026-11-26
+"66Degrees, Llc",greenhouse,66degrees,sponsors,2026-11-26
+84.51 Llc,greenhouse,8451,sponsors,2026-11-26
+"Abacus Insights, Inc.",greenhouse,abacusinsights,sponsors,2026-11-26
 Abnormal Security,greenhouse,abnormalsecurity,hand,2026-11-26
 Abridge,ashby,abridge,hand,2026-11-26
+"Academy, LTD",greenhouse,academy,sponsors,2026-11-26
+"Accompany Health, Inc.",greenhouse,accompanyhealth,sponsors,2026-11-26
+AccuWeather,greenhouse,accuweather,sponsors,2026-11-26
 Acorns,ashby,acorns,hand,2026-11-26
+"ActiveCampaign, LLC",lever,activecampaign,sponsors,2026-11-26
+"AcuityMD, Inc.",greenhouse,acuitymd,sponsors,2026-11-26
 Affirm,greenhouse,affirm,hand,2026-11-26
 Agility Robotics,greenhouse,agilityrobotics,hand,2026-11-26
 Airbyte,ashby,airbyte,hand,2026-11-26
 Airtable,greenhouse,airtable,hand,2026-11-26
+"Airwallex US, LLC",ashby,airwallex,sponsors,2026-11-26
+Alarm.com Inc.,greenhouse,alarmcom,sponsors,2026-11-26
+Aledade PBC,lever,aledade,sponsors,2026-11-26
 Algolia,greenhouse,algolia,hand,2026-11-26
+"AlixPartners, LLP",greenhouse,alixpartners,sponsors,2026-11-26
+"Allegiant Air, LLC",lever,allegiantair,sponsors,2026-11-26
 Allocate,ashby,allocate,hand,2026-11-26
 Alloy,greenhouse,alloy,hand,2026-11-26
 Alma,ashby,alma,hand,2026-11-26
+Alo Yoga,greenhouse,aloyoga,sponsors,2026-11-26
 Alpaca,greenhouse,alpaca,hand,2026-11-26
+AlphaSense Inc.,greenhouse,alphasense,sponsors,2026-11-26
+Altruist Corp.,greenhouse,altruist,sponsors,2026-11-26
 Ambience Healthcare,ashby,ambiencehealthcare,hand,2026-11-26
+AMI US Holdings Inc.,ashby,ami,sponsors,2026-11-26
 Amplitude,ashby,amplitude,hand,2026-11-26
+"Analytic Partners, LP",lever,analyticpartners,sponsors,2026-11-26
+"Anaplan, Inc.",greenhouse,anaplan,sponsors,2026-11-26
 AngelList,lever,angellist,hand,2026-11-26
+Angi Inc.,ashby,angi,sponsors,2026-11-26
 Anomalo,ashby,anomalo,hand,2026-11-26
 Anterior,ashby,anterior,hand,2026-11-26
 Anthropic,greenhouse,anthropic,hand,2026-11-26
 Anyscale,ashby,anyscale,hand,2026-11-26
+Aperia Solutions Inc.,greenhouse,aperiasolutions,sponsors,2026-11-26
 Apollo,greenhouse,apollo,hand,2026-11-26
 Apollo GraphQL,ashby,apollo-graphql,hand,2026-11-26
+Apollo.io,greenhouse,apolloio,sponsors,2026-11-26
 Appian,greenhouse,appian,hand,2026-11-26
 Applied Intuition,ashby,applied,hand,2026-11-26
+"Applied Systems, Inc.",ashby,appliedsystems,sponsors,2026-11-26
+AppLovin Corporation,greenhouse,applovin,sponsors,2026-11-26
 Appodeal,greenhouse,appodeal,hand,2026-11-26
+"Apptronik, Inc.",greenhouse,apptronik,sponsors,2026-11-26
+"AppZen, Inc.",lever,appzen,sponsors,2026-11-26
 Arcadia,lever,arcadia,hand,2026-11-26
 Arch,ashby,arch,hand,2026-11-26
 Archer Aviation,greenhouse,archer,hand,2026-11-26
 Arize AI,greenhouse,arizeai,hand,2026-11-26
+"Artera, Inc.",lever,artera,sponsors,2026-11-26
 Artisan,ashby,artisan,hand,2026-11-26
 Asana,greenhouse,asana,hand,2026-11-26
 Ashby,ashby,ashby,hand,2026-11-26
+Asm America Inc.,greenhouse,asm,sponsors,2026-11-26
+"Assort Health, Inc.",ashby,assorthealth,sponsors,2026-11-26
 Astranis,greenhouse,astranis,hand,2026-11-26
 Astronomer,ashby,astronomer,hand,2026-11-26
 At Bay,greenhouse,atbay,hand,2026-11-26
@@ -40,44 +69,81 @@ Atomic,ashby,atomic,hand,2026-11-26
 Attention,ashby,attention,hand,2026-11-26
 Attentive,greenhouse,attentive,hand,2026-11-26
 Attio,ashby,attio,hand,2026-11-26
+"Augment Computing, Inc.",greenhouse,augmentcomputing,sponsors,2026-11-26
 Aurora Solar,ashby,aurorasolar,hand,2026-11-26
 Avante,greenhouse,avante,hand,2026-11-26
+"Avathon, Inc.",greenhouse,avathon,sponsors,2026-11-26
+"Avride, Inc.",greenhouse,avride,sponsors,2026-11-26
+AXS Group LLC,greenhouse,axs,sponsors,2026-11-26
+"Balbix, Inc.",lever,balbix,sponsors,2026-11-26
+"Bandwidth, Inc.",greenhouse,bandwidth,sponsors,2026-11-26
 Baseten,ashby,baseten,hand,2026-11-26
 Beamery,ashby,beamery,hand,2026-11-26
+Belvedere Trading,lever,belvederetrading,sponsors,2026-11-26
 Benchling,ashby,benchling,hand,2026-11-26
 Bestow,ashby,bestow,hand,2026-11-26
 Betterment,greenhouse,betterment,hand,2026-11-26
+"BetterUp, Inc.",ashby,betterup,sponsors,2026-11-26
+"Beyond Finance, LLC",greenhouse,beyondfinance,sponsors,2026-11-26
+"Beyond, Inc.",greenhouse,beyond,sponsors,2026-11-26
+"BitGo, Inc.",greenhouse,bitgo,sponsors,2026-11-26
 Bitwarden,greenhouse,bitwarden,hand,2026-11-26
 Blend,greenhouse,blend,hand,2026-11-26
+Blink Health Group LLC,greenhouse,blinkhealth,sponsors,2026-11-26
+"BloomReach, Inc.",greenhouse,bloomreach,sponsors,2026-11-26
+Boku Inc.,greenhouse,boku,sponsors,2026-11-26
+"Bolster, Inc.",lever,bolster,sponsors,2026-11-26
+Boomi L.P.,greenhouse,boomilp,sponsors,2026-11-26
+Boson AI USA Inc.,lever,bosonai,sponsors,2026-11-26
+"Bounteous, Inc.",lever,bounteous,sponsors,2026-11-26
+"Bracebridge Capital, LLC",greenhouse,bracebridgecapital,sponsors,2026-11-26
 Brainly,ashby,brainly,hand,2026-11-26
 Braintrust,ashby,braintrust,hand,2026-11-26
 Branch,greenhouse,branch,hand,2026-11-26
 Braze,greenhouse,braze,hand,2026-11-26
 Brex,greenhouse,brex,hand,2026-11-26
+Bright It Inc,greenhouse,brightit,sponsors,2026-11-26
 Brigit,ashby,brigit,hand,2026-11-26
+Brunswick Corporation,ashby,brunswick,sponsors,2026-11-26
 Bubble,ashby,bubble,hand,2026-11-26
 Buildkite,greenhouse,buildkite,hand,2026-11-26
 Built In,greenhouse,builtin,hand,2026-11-26
+"Bungie, Inc.",greenhouse,bungie,sponsors,2026-11-26
 CAIS,greenhouse,cais,hand,2026-11-26
 Calendly,greenhouse,calendly,hand,2026-11-26
+Caliber Holdings LLC,greenhouse,caliber,sponsors,2026-11-26
+"Cambridge Mobile Telematics, Inc.",greenhouse,cambridgemobiletelematics,sponsors,2026-11-26
 Campfire,ashby,campfire,hand,2026-11-26
+"Candid Group, Inc.",greenhouse,candid,sponsors,2026-11-26
 Candid Health,ashby,candidhealth,hand,2026-11-26
 Canvas Medical,lever,canvasmedical,hand,2026-11-26
+Capstone Investment Advisors LLC,greenhouse,capstoneinvestmentadvisors,sponsors,2026-11-26
+Capsule Corporation,ashby,capsule,sponsors,2026-11-26
+"CarGurus, Inc.",greenhouse,cargurus,sponsors,2026-11-26
 Carrot Fertility,greenhouse,carrotfertility,hand,2026-11-26
 Carta,greenhouse,carta,hand,2026-11-26
+"Carvana, LLC",greenhouse,carvana,sponsors,2026-11-26
+CaseGuard Inc.,greenhouse,caseguard,sponsors,2026-11-26
 Celonis,greenhouse,celonis,hand,2026-11-26
 Cerebras,ashby,cerebras,hand,2026-11-26
+"Ceribell, Inc.",greenhouse,ceribell,sponsors,2026-11-26
+Certa,ashby,certa,sponsors,2026-11-26
 Chainguard,greenhouse,chainguard,hand,2026-11-26
 Character AI,ashby,character,hand,2026-11-26
+"ChargePoint, Inc.",greenhouse,chargepoint,sponsors,2026-11-26
 Check Technologies,ashby,check-technologies,hand,2026-11-26
 Checkr,greenhouse,checkr,hand,2026-11-26
 Chime,greenhouse,chime,hand,2026-11-26
 ChowNow,lever,chownow,hand,2026-11-26
 Chromatic,ashby,chromatic,hand,2026-11-26
+"Cint USA, Inc.",ashby,cint,sponsors,2026-11-26
 Circle Logistics,ashby,circle,hand,2026-11-26
 CircleCI,greenhouse,circleci,hand,2026-11-26
 Clair,ashby,clair,hand,2026-11-26
+Claritas Rx Inc.,greenhouse,claritasrx,sponsors,2026-11-26
+"Clarkson Eyecare, LLC",greenhouse,clarksoneyecare,sponsors,2026-11-26
 ClassDojo,ashby,classdojo,hand,2026-11-26
+Clay Labs Inc.,ashby,claylabs,sponsors,2026-11-26
 Clerk,ashby,clerk,hand,2026-11-26
 ClickHouse,ashby,clickhouse,hand,2026-11-26
 ClickUp,ashby,clickup,hand,2026-11-26
@@ -90,6 +156,7 @@ Codat,ashby,codat,hand,2026-11-26
 Coder,ashby,coder,hand,2026-11-26
 CodeRabbit,ashby,coderabbit,hand,2026-11-26
 Cognition,ashby,cognition,hand,2026-11-26
+Cognitiv Corp,greenhouse,cognitiv,sponsors,2026-11-26
 Cohere,ashby,cohere,hand,2026-11-26
 Cohere Health,greenhouse,coherehealth,hand,2026-11-26
 Collibra,greenhouse,collibra,hand,2026-11-26
@@ -97,12 +164,21 @@ Color Health,ashby,color-health,hand,2026-11-26
 Column,ashby,column,hand,2026-11-26
 Comet,greenhouse,comet,hand,2026-11-26
 Commure,ashby,commure,hand,2026-11-26
+ConcertAI,greenhouse,concertai,sponsors,2026-11-26
+Conga Corporation,greenhouse,conga,sponsors,2026-11-26
+"Constant Contact, Inc",greenhouse,constantcontact,sponsors,2026-11-26
+"Consumer Reports, Inc.",greenhouse,consumerreports,sponsors,2026-11-26
+Convera USA LLC,greenhouse,convera,sponsors,2026-11-26
 Cooper AI,ashby,cooper-ai,hand,2026-11-26
+"Corelight, Inc.",greenhouse,corelight,sponsors,2026-11-26
 CoreWeave,greenhouse,coreweave,hand,2026-11-26
 Cortex,greenhouse,cortex,hand,2026-11-26
 Coupa,lever,coupa,hand,2026-11-26
 Coursera,greenhouse,coursera,hand,2026-11-26
+"Cowbell Cyber, Inc.",greenhouse,cowbellcyber,sponsors,2026-11-26
 Cresta,greenhouse,cresta,hand,2026-11-26
+"Cribl, Inc.",greenhouse,cribl,sponsors,2026-11-26
+"Crunchyroll, LLC",greenhouse,crunchyroll,sponsors,2026-11-26
 Crusoe,ashby,crusoe,hand,2026-11-26
 Crux,ashby,crux,hand,2026-11-26
 Cube,ashby,cube,hand,2026-11-26
@@ -111,44 +187,81 @@ Current,greenhouse,current,hand,2026-11-26
 Cursor,ashby,cursor,hand,2026-11-26
 Customer io,greenhouse,customerio,hand,2026-11-26
 DailyPay,ashby,dailypay,hand,2026-11-26
+Dandy,ashby,dandy,sponsors,2026-11-26
 Databricks,greenhouse,databricks,hand,2026-11-26
 Datadog,greenhouse,datadog,hand,2026-11-26
 Dave,ashby,dave,hand,2026-11-26
 Decagon,ashby,decagon,hand,2026-11-26
 Deepnote,ashby,deepnote,hand,2026-11-26
+"Demandbase, Inc.",ashby,demandbase,sponsors,2026-11-26
 Descope,greenhouse,descope,hand,2026-11-26
 Descript,greenhouse,descript,hand,2026-11-26
 Develop Health,ashby,develop-health,hand,2026-11-26
+DevRev Inc.,greenhouse,devrev,sponsors,2026-11-26
 Dexterity,lever,dexterity,hand,2026-11-26
+"DigiCert, Inc.",greenhouse,digicert,sponsors,2026-11-26
+"Diligent Robotics, Inc.",greenhouse,diligentrobotics,sponsors,2026-11-26
 DISCO,greenhouse,disco,hand,2026-11-26
+"Discord, Inc.",greenhouse,discord,sponsors,2026-11-26
+Domino Data Lab,greenhouse,dominodatalab,sponsors,2026-11-26
+Doppel Inc.,greenhouse,doppel,sponsors,2026-11-26
+Doran Jones Inc.,lever,doranjones,sponsors,2026-11-26
+Doss Inc.,ashby,doss,sponsors,2026-11-26
+DoubleVerify Inc.,greenhouse,doubleverify,sponsors,2026-11-26
+"Doximity, Inc.",greenhouse,doximity,sponsors,2026-11-26
 Drata,ashby,drata,hand,2026-11-26
 Dremio,greenhouse,dremio,hand,2026-11-26
 DriveWealth,greenhouse,drivewealth,hand,2026-11-26
 Duolingo,greenhouse,duolingo,hand,2026-11-26
 Dust,ashby,dust,hand,2026-11-26
+"DV01, Inc",greenhouse,dv01,sponsors,2026-11-26
+"Dyna Robotics, Inc.",ashby,dyna-robotics,sponsors,2026-11-26
 Dyno Therapeutics,greenhouse,dynotherapeutics,hand,2026-11-26
 E2B,ashby,e2b,hand,2026-11-26
+Earnest LLC,greenhouse,earnest,sponsors,2026-11-26
 Earnin,greenhouse,earnin,hand,2026-11-26
+Eclinical Solutions Llc,greenhouse,eclinicalsolutions,sponsors,2026-11-26
+"Eigen Labs, Inc.",ashby,eigen-labs,sponsors,2026-11-26
+"Eikon Therapeutics, Inc.",greenhouse,eikontherapeutics,sponsors,2026-11-26
 Elastic,greenhouse,elastic,hand,2026-11-26
 Elation Health,greenhouse,elationhealth,hand,2026-11-26
 ElevenLabs,ashby,elevenlabs,hand,2026-11-26
+"Ellipsis Health, Inc.",ashby,ellipsis-health,sponsors,2026-11-26
+"Elsevier, Inc.",greenhouse,elsevier,sponsors,2026-11-26
+Empower Pharmacy,greenhouse,empowerpharmacy,sponsors,2026-11-26
 Enpal,ashby,enpal,hand,2026-11-26
+"Ensono, LLC",greenhouse,ensono,sponsors,2026-11-26
+"Entrata, Inc.",lever,entrata,sponsors,2026-11-26
+"Epic Games, Inc.",greenhouse,epicgames,sponsors,2026-11-26
 Etched,ashby,etched,hand,2026-11-26
+"Etched.ai, Inc.",greenhouse,etchedai,sponsors,2026-11-26
 Ethos,greenhouse,ethos,hand,2026-11-26
+Eudia,greenhouse,eudia,sponsors,2026-11-26
 Everlaw,greenhouse,everlaw,hand,2026-11-26
+"Everquote, Inc.",greenhouse,everquote,sponsors,2026-11-26
+EvolutionIQ LLC,greenhouse,evolutioniq,sponsors,2026-11-26
+Exabeam,greenhouse,exabeam,sponsors,2026-11-26
 Extend,greenhouse,extend,hand,2026-11-26
+Extreme Networks Inc,lever,extremenetworks,sponsors,2026-11-26
 Factory,ashby,factory,hand,2026-11-26
 Faire,greenhouse,faire,hand,2026-11-26
+FalconX,greenhouse,falconx,sponsors,2026-11-26
+Farm Credit Bank of Texas,greenhouse,farmcreditbankoftexas,sponsors,2026-11-26
+"Fashion Nova, LLC",greenhouse,fashionnova,sponsors,2026-11-26
 Fastly,greenhouse,fastly,hand,2026-11-26
 Fathom,ashby,fathom,hand,2026-11-26
 Federato,greenhouse,federato,hand,2026-11-26
+"Field AI, Inc.",lever,field-ai,sponsors,2026-11-26
 Fieldwire,greenhouse,fieldwire,hand,2026-11-26
+Fig Llc,ashby,fig,sponsors,2026-11-26
 Figma,greenhouse,figma,hand,2026-11-26
 Figure AI,greenhouse,figureai,hand,2026-11-26
 Filevine,lever,filevine,hand,2026-11-26
 Finch,ashby,finch,hand,2026-11-26
 Findem,lever,findem,hand,2026-11-26
+Finfare Financial Inc.,greenhouse,finfare-financial,sponsors,2026-11-26
 Fireworks AI,ashby,fireworks,hand,2026-11-26
+"Five9, Inc.",greenhouse,five9,sponsors,2026-11-26
 Fivetran,greenhouse,fivetran,hand,2026-11-26
 Flatiron Health,greenhouse,flatironhealth,hand,2026-11-26
 Flex,greenhouse,flex,hand,2026-11-26
@@ -157,20 +270,34 @@ Flock Freight,ashby,flock,hand,2026-11-26
 FloQast,lever,floqast,hand,2026-11-26
 FlutterFlow,ashby,flutterflow,hand,2026-11-26
 Fly io,lever,fly,hand,2026-11-26
+"FormativGroup, LLC",greenhouse,formativgroup,sponsors,2026-11-26
+"Formlabs, Inc.",greenhouse,formlabs,sponsors,2026-11-26
 Forter,greenhouse,forter,hand,2026-11-26
 Forward,greenhouse,forward,hand,2026-11-26
+"Forward Networks, Inc.",greenhouse,forwardnetworks,sponsors,2026-11-26
 Found,greenhouse,found,hand,2026-11-26
+Foundation,ashby,foundation,sponsors,2026-11-26
 Foundry,greenhouse,foundry,hand,2026-11-26
 FourKites,greenhouse,fourkites,hand,2026-11-26
 Freenome,greenhouse,freenome,hand,2026-11-26
+fuboTV,greenhouse,fubotv,sponsors,2026-11-26
 FullStory,ashby,fullstory,hand,2026-11-26
+"Fuseglobal Partners, Inc.",greenhouse,fuseglobalpartners,sponsors,2026-11-26
+Future Secure AI USA Inc.,greenhouse,futuresecureai,sponsors,2026-11-26
 Gainsight,ashby,gainsight,hand,2026-11-26
+"Galatea Associates, LLC",lever,galatea-associates,sponsors,2026-11-26
+Galaxy Digital Services Llc,greenhouse,galaxydigitalservices,sponsors,2026-11-26
 Galileo,greenhouse,galileo,hand,2026-11-26
+"Gallup, Inc.",greenhouse,gallup,sponsors,2026-11-26
 Gamma,ashby,gamma,hand,2026-11-26
 Garner Health,greenhouse,garnerhealth,hand,2026-11-26
 Generate Biomedicines,greenhouse,generatebiomedicines,hand,2026-11-26
+"Geotab USA, Inc.",greenhouse,geotab,sponsors,2026-11-26
 GitLab,greenhouse,gitlab,hand,2026-11-26
 Glide,greenhouse,glide,hand,2026-11-26
+GoFundMe Inc.,greenhouse,gofundme,sponsors,2026-11-26
+"GoodLeap, LLC",lever,goodleap,sponsors,2026-11-26
+"GoodRx, Inc.",ashby,goodrx,sponsors,2026-11-26
 Gopuff,lever,gopuff,hand,2026-11-26
 Gorgias,ashby,gorgias,hand,2026-11-26
 Gradient,ashby,gradient,hand,2026-11-26
@@ -179,7 +306,10 @@ Grafana Labs,greenhouse,grafanalabs,hand,2026-11-26
 Granola,ashby,granola,hand,2026-11-26
 Greenhouse,greenhouse,greenhouse,hand,2026-11-26
 Greptile,ashby,greptile,hand,2026-11-26
+"Groupon, Inc.",greenhouse,groupon,sponsors,2026-11-26
 Grow Therapy,ashby,grow-therapy,hand,2026-11-26
+"GuidePoint Security, LLC",greenhouse,guidepointsecurity,sponsors,2026-11-26
+"Gumgum, Inc.",greenhouse,gumgum,sponsors,2026-11-26
 Gusto,greenhouse,gusto,hand,2026-11-26
 Handshake,greenhouse,handshake,hand,2026-11-26
 Harmony AI,ashby,harmony,hand,2026-11-26
@@ -187,22 +317,34 @@ Harvey,ashby,harvey,hand,2026-11-26
 Headway,ashby,headway,hand,2026-11-26
 Health Gorilla,ashby,healthgorilla,hand,2026-11-26
 Healthie,greenhouse,healthie,hand,2026-11-26
+"HealthVerity, Inc.",greenhouse,healthverity,sponsors,2026-11-26
+HelloFresh,greenhouse,hellofresh,sponsors,2026-11-26
 Hellyeah AI,ashby,hellyeah,hand,2026-11-26
 Help Scout,ashby,helpscout,hand,2026-11-26
 Hermeus,lever,hermeus,hand,2026-11-26
 Hex,ashby,hex,hand,2026-11-26
 Highnote,greenhouse,highnote,hand,2026-11-26
+HighRadius Corporation,greenhouse,highradius,sponsors,2026-11-26
 Hightouch,ashby,hightouch,hand,2026-11-26
 Hims and Hers,ashby,hims-and-hers,hand,2026-11-26
 Hinge Health,ashby,hinge-health,hand,2026-11-26
 Honeycomb,greenhouse,honeycomb,hand,2026-11-26
+Hooglee Corp.,ashby,hooglee,sponsors,2026-11-26
+Hopper USA Inc,ashby,hopper,sponsors,2026-11-26
+"Hot Topic, Inc.",lever,hottopic,sponsors,2026-11-26
 Housecall Pro,greenhouse,housecall,hand,2026-11-26
+"Houzz, Inc.",lever,houzz,sponsors,2026-11-26
+Hover Inc.,greenhouse,hover,sponsors,2026-11-26
+Hoyoverse,greenhouse,hoyoverse,sponsors,2026-11-26
 Hyperproof,greenhouse,hyperproof,hand,2026-11-26
 Hyperscience,ashby,hyperscience,hand,2026-11-26
+iManage LLC,greenhouse,imanage,sponsors,2026-11-26
 Imbue,greenhouse,imbue,hand,2026-11-26
+"Impact Tech, Inc.",greenhouse,impacttech,sponsors,2026-11-26
 Inceptive,greenhouse,inceptive,hand,2026-11-26
 incident io,ashby,incident,hand,2026-11-26
 Included Health,lever,includedhealth,hand,2026-11-26
+"Inferact, Inc.",ashby,inferact,sponsors,2026-11-26
 Infinitus,ashby,infinitus,hand,2026-11-26
 Inflection AI,greenhouse,inflectionai,hand,2026-11-26
 InfluxData,ashby,influxdata,hand,2026-11-26
@@ -210,19 +352,32 @@ InMarket,greenhouse,inmarket,hand,2026-11-26
 Inngest,ashby,inngest,hand,2026-11-26
 Insitro,ashby,insitro,hand,2026-11-26
 Instacart,greenhouse,instacart,hand,2026-11-26
+"Integrity, Inc.",greenhouse,integrity,sponsors,2026-11-26
 Intercom,greenhouse,intercom,hand,2026-11-26
+"Iovance Biotherapeutics, Inc.",greenhouse,iovancebiotherapeutics,sponsors,2026-11-26
+"Iru, Inc",lever,iru,sponsors,2026-11-26
+"iSpot.tv, Inc.",greenhouse,ispottv,sponsors,2026-11-26
 Iterable,ashby,iterable,hand,2026-11-26
+"IXL Learning, Inc.",greenhouse,ixllearning,sponsors,2026-11-26
+"Jam City, Inc.",lever,jamcity,sponsors,2026-11-26
+"Jane Street Group, LLC",greenhouse,janestreet,sponsors,2026-11-26
 JFrog,greenhouse,jfrog,hand,2026-11-26
+JMA Wireless,lever,jmawireless,sponsors,2026-11-26
 Jobber,ashby,jobber,hand,2026-11-26
 Judi Health,greenhouse,judihealth,hand,2026-11-26
 Juicebox,ashby,juicebox,hand,2026-11-26
 Juniper Square,ashby,junipersquare,hand,2026-11-26
 Justworks,greenhouse,justworks,hand,2026-11-26
+Kaseya US LLC,greenhouse,kaseya,sponsors,2026-11-26
+Kayak,ashby,kayak,sponsors,2026-11-26
 Keebler Health,ashby,keebler-health,hand,2026-11-26
 Kestra,ashby,kestra,hand,2026-11-26
+Keystone Strategy LLC,greenhouse,keystonestrategy,sponsors,2026-11-26
 Khan Academy,greenhouse,khanacademy,hand,2026-11-26
+KikOff Inc.,greenhouse,kikoff,sponsors,2026-11-26
 Klaviyo,greenhouse,klaviyo,hand,2026-11-26
 Knock,greenhouse,knock,hand,2026-11-26
+"KnowBe4, Inc.",greenhouse,knowbe4,sponsors,2026-11-26
 Kodiak Robotics,greenhouse,kodiak,hand,2026-11-26
 Komodo Health,greenhouse,komodohealth,hand,2026-11-26
 Kong,ashby,kong,hand,2026-11-26
@@ -234,65 +389,120 @@ LangChain,ashby,langchain,hand,2026-11-26
 Lattice,greenhouse,lattice,hand,2026-11-26
 LaunchDarkly,greenhouse,launchdarkly,hand,2026-11-26
 Layer Health,greenhouse,layerhealth,hand,2026-11-26
+Lead Bank,ashby,leadbank,sponsors,2026-11-26
+"LeanTaaS, Inc.",lever,leantaas,sponsors,2026-11-26
 Lemonade,ashby,lemonade,hand,2026-11-26
+"Lendbuzz, Inc.",lever,lendbuzz,sponsors,2026-11-26
+"LendingTree, LLC",greenhouse,lendingtree,sponsors,2026-11-26
+Lessen LLC,lever,lessen,sponsors,2026-11-26
+"Liaison International, LLC",greenhouse,liaisoninternational,sponsors,2026-11-26
+"Life360, Inc.",greenhouse,life360,sponsors,2026-11-26
 Lightdash,ashby,lightdash,hand,2026-11-26
 Lightmatter,greenhouse,lightmatter,hand,2026-11-26
 Lightning AI,greenhouse,lightningai,hand,2026-11-26
+"Lila Sciences, Inc.",greenhouse,lilasciences,sponsors,2026-11-26
 Linear,ashby,linear,hand,2026-11-26
 Lithic,greenhouse,lithic,hand,2026-11-26
 LiveKit,ashby,livekit,hand,2026-11-26
+"LivePerson, Inc.",greenhouse,liveperson,sponsors,2026-11-26
 LlamaIndex,ashby,llamaindex,hand,2026-11-26
 Loadsmart,lever,loadsmart,hand,2026-11-26
 Locus Robotics,greenhouse,locusrobotics,hand,2026-11-26
 LogicGate,greenhouse,logicgate,hand,2026-11-26
+"LogicMonitor, Inc.",greenhouse,logicmonitor,sponsors,2026-11-26
 LogRocket,lever,logrocket,hand,2026-11-26
+Lucid Software Inc.,greenhouse,lucidsoftware,sponsors,2026-11-26
 Lyra Health,lever,lyrahealth,hand,2026-11-26
 Machina Labs,ashby,machina-labs,hand,2026-11-26
 Magic,greenhouse,magic,hand,2026-11-26
+"Mainspring Energy, Inc.",lever,mainspringenergy,sponsors,2026-11-26
 Make,greenhouse,make,hand,2026-11-26
+"Mapbox, Inc.",ashby,mapbox,sponsors,2026-11-26
+MasterClass,greenhouse,masterclass,sponsors,2026-11-26
 Material Security,ashby,materialsecurity,hand,2026-11-26
 Maven Clinic,greenhouse,mavenclinic,hand,2026-11-26
+Maxinsights Corporation,ashby,maxinsights,sponsors,2026-11-26
 May Mobility,greenhouse,maymobility,hand,2026-11-26
+MCA Connect LLC,lever,mcaconnect,sponsors,2026-11-26
+"McAfee, LLC",greenhouse,mcafee,sponsors,2026-11-26
+"MCG Health, LLC.",greenhouse,mcghealth,sponsors,2026-11-26
+"MedeAnalytics, Inc.",greenhouse,medeanalytics,sponsors,2026-11-26
 Melio,greenhouse,melio,hand,2026-11-26
+"Memx, Llc",greenhouse,memx,sponsors,2026-11-26
 Mercor,ashby,mercor,hand,2026-11-26
 Mercury,greenhouse,mercury,hand,2026-11-26
 Merge,greenhouse,merge,hand,2026-11-26
+"MeridianLink, Inc.",ashby,meridianlink,sponsors,2026-11-26
 Merlin Labs,lever,merlinlabs,hand,2026-11-26
 Metabase,lever,metabase,hand,2026-11-26
+"Meter, Inc.",ashby,meter,sponsors,2026-11-26
+Mettel,greenhouse,mettel,sponsors,2026-11-26
 Middesk,ashby,middesk,hand,2026-11-26
 Mintlify,ashby,mintlify,hand,2026-11-26
+"MIO Partners, Inc.",greenhouse,miopartners,sponsors,2026-11-26
 Miro,ashby,miro,hand,2026-11-26
 Mixpanel,greenhouse,mixpanel,hand,2026-11-26
+"MNTN, Inc.",greenhouse,mntn,sponsors,2026-11-26
+"MobilityWare, Inc.",greenhouse,mobilityware,sponsors,2026-11-26
 Modal,ashby,modal,hand,2026-11-26
+"Model N, Inc",lever,modeln,sponsors,2026-11-26
 Modern Health,greenhouse,modernhealth,hand,2026-11-26
 Modern Treasury,ashby,moderntreasury,hand,2026-11-26
 MongoDB,greenhouse,mongodb,hand,2026-11-26
+Monster Energy US LLC,greenhouse,monsterenergy,sponsors,2026-11-26
+Mosaic,ashby,mosaic,sponsors,2026-11-26
 MotherDuck,ashby,motherduck,hand,2026-11-26
 Motive,greenhouse,motive,hand,2026-11-26
 Muon Space,greenhouse,muonspace,hand,2026-11-26
 Mux,ashby,mux,hand,2026-11-26
+"Mysten Labs, Inc.",ashby,mystenlabs,sponsors,2026-11-26
 n8n,ashby,n8n,hand,2026-11-26
 Nabla,ashby,nabla,hand,2026-11-26
 Nango,ashby,nango,hand,2026-11-26
+"Narvar, Inc.",greenhouse,narvar,sponsors,2026-11-26
+"Nasdaq, Inc.",greenhouse,nasdaq,sponsors,2026-11-26
+Nasuni Corporation,greenhouse,nasuni,sponsors,2026-11-26
 Nebius,greenhouse,nebius,hand,2026-11-26
 Neon,ashby,neon,hand,2026-11-26
 Neptune AI,ashby,neptune,hand,2026-11-26
+Netcracker,greenhouse,netcracker,sponsors,2026-11-26
 Netlify,greenhouse,netlify,hand,2026-11-26
+"Netskope, Inc.",greenhouse,netskope,sponsors,2026-11-26
+"Network Optix, Inc.",greenhouse,networkoptix,sponsors,2026-11-26
+NeuraFlash,greenhouse,neuraflash,sponsors,2026-11-26
+Neuralink Corp.,greenhouse,neuralink,sponsors,2026-11-26
+"New Era Technology, LLC",greenhouse,neweratechnology,sponsors,2026-11-26
 New Relic,greenhouse,newrelic,hand,2026-11-26
+Nexla Inc.,greenhouse,nexla,sponsors,2026-11-26
+"Nextdoor, Inc.",greenhouse,nextdoor,sponsors,2026-11-26
+Nextiva,greenhouse,nextiva,sponsors,2026-11-26
+"NextRoll, Inc.",greenhouse,nextroll,sponsors,2026-11-26
+"Niantic Spatial, Inc.",ashby,niantic-spatial,sponsors,2026-11-26
+"Nimble Robotics, Inc.",greenhouse,nimblerobotics,sponsors,2026-11-26
 Notable Health,ashby,notable,hand,2026-11-26
 Notion,ashby,notion,hand,2026-11-26
+"Nova Credit, Inc.",greenhouse,novacredit,sponsors,2026-11-26
+"NTT Data AIVista, Inc.",ashby,ntt-data-aivista,sponsors,2026-11-26
+"Nuance Labs, Inc.",greenhouse,nuancelabs,sponsors,2026-11-26
 Numeric,ashby,numeric,hand,2026-11-26
 Nuro,greenhouse,nuro,hand,2026-11-26
 Observe AI,greenhouse,observeai,hand,2026-11-26
+"Octane Lending, Inc.",greenhouse,octanelending,sponsors,2026-11-26
 Okta,greenhouse,okta,hand,2026-11-26
+"Oldcastle Buildingenvelope, Inc.",greenhouse,oldcastlebuildingenvelope,sponsors,2026-11-26
+"Oliver Wyman, LLC",lever,oliverwyman,sponsors,2026-11-26
 Olo,lever,olo,hand,2026-11-26
 Omada Health,greenhouse,omadahealth,hand,2026-11-26
 Omni Analytics,ashby,omni,hand,2026-11-26
+"Onbe, Inc.",greenhouse,onbe,sponsors,2026-11-26
 One Medical,greenhouse,onemedical,hand,2026-11-26
 OpenAI,ashby,openai,hand,2026-11-26
+"OpenGov, Inc.",ashby,opengov,sponsors,2026-11-26
 Openly,ashby,openly,hand,2026-11-26
 OpenSesame,greenhouse,opensesame,hand,2026-11-26
 OpenSpace,greenhouse,openspace,hand,2026-11-26
+"OpenTable, Inc.",greenhouse,opentable,sponsors,2026-11-26
+"Oportun, Inc.",greenhouse,oportun,sponsors,2026-11-26
 OpsLevel,ashby,opslevel,hand,2026-11-26
 Orca Security,greenhouse,orcasecurity,hand,2026-11-26
 Oscar Health,greenhouse,oscar,hand,2026-11-26
@@ -300,6 +510,7 @@ Otter AI,greenhouse,otterai,hand,2026-11-26
 Otter Products,greenhouse,otter,hand,2026-11-26
 Outreach,lever,outreach,hand,2026-11-26
 Outschool,ashby,outschool,hand,2026-11-26
+"Overjet, Inc.",ashby,overjet,sponsors,2026-11-26
 Overstory,ashby,overstory,hand,2026-11-26
 Owkin,ashby,owkin,hand,2026-11-26
 Owner com,ashby,owner,hand,2026-11-26
@@ -310,133 +521,255 @@ Palmetto,greenhouse,palmetto,hand,2026-11-26
 Paradox,ashby,paradox,hand,2026-11-26
 Paraform,ashby,paraform,hand,2026-11-26
 Patch,greenhouse,patch,hand,2026-11-26
+Path Robotics Inc.,greenhouse,pathrobotics,sponsors,2026-11-26
 PathAI,greenhouse,pathai,hand,2026-11-26
+"Patreon, Inc.",ashby,patreon,sponsors,2026-11-26
 Patronus AI,ashby,patronus,hand,2026-11-26
+"Pattern, Inc.",lever,pattern,sponsors,2026-11-26
 Payactiv,lever,payactiv,hand,2026-11-26
+"PayJoy, Inc.",lever,payjoy,sponsors,2026-11-26
+"PDI Technologies, Inc.",lever,pditechnologies,sponsors,2026-11-26
+"PDT Partners, LLC",greenhouse,pdtpartners,sponsors,2026-11-26
+"Peloton Group, LLC",greenhouse,peloton,sponsors,2026-11-26
 Pendo,greenhouse,pendo,hand,2026-11-26
+"Peregrine Technologies, Inc.",greenhouse,peregrinetechnologies,sponsors,2026-11-26
 Perplexity,ashby,perplexity,hand,2026-11-26
 Persona,ashby,persona,hand,2026-11-26
+"phData, Inc.",greenhouse,phdata,sponsors,2026-11-26
+"Philo, Inc.",ashby,philo,sponsors,2026-11-26
 Pie Insurance,greenhouse,pieinsurance,hand,2026-11-26
+"Pindrop Security, Inc.",greenhouse,pindropsecurity,sponsors,2026-11-26
 Pinecone,ashby,pinecone,hand,2026-11-26
+Ping Identity Corporation,greenhouse,pingidentity,sponsors,2026-11-26
 Plaid,ashby,plaid,hand,2026-11-26
+Planet Labs PBC,greenhouse,planetlabs,sponsors,2026-11-26
 PlanetScale,greenhouse,planetscale,hand,2026-11-26
 Planhat,ashby,planhat,hand,2026-11-26
+"Platform Science, Inc.",greenhouse,platformscience,sponsors,2026-11-26
+Polymarket,ashby,polymarket,sponsors,2026-11-26
 Poolside,ashby,poolside,hand,2026-11-26
 Poshmark,greenhouse,poshmark,hand,2026-11-26
 PostHog,ashby,posthog,hand,2026-11-26
 Prefect,ashby,prefect,hand,2026-11-26
+Princeton University,greenhouse,princetonuniversity,sponsors,2026-11-26
 Prismatic,greenhouse,prismatic,hand,2026-11-26
+Profound,greenhouse,profound,sponsors,2026-11-26
 Project44,greenhouse,project44,hand,2026-11-26
 Public,greenhouse,public,hand,2026-11-26
+"PubMatic, Inc.",greenhouse,pubmatic,sponsors,2026-11-26
 Pulley,greenhouse,pulley,hand,2026-11-26
+"Quanata, LLC",greenhouse,quanata,sponsors,2026-11-26
+"Quantbot Technologies, LP",greenhouse,quantbot-technologies,sponsors,2026-11-26
+"Quantifind, Inc.",greenhouse,quantifind,sponsors,2026-11-26
+Quince,greenhouse,quince,sponsors,2026-11-26
+"QuinStreet, Inc.",greenhouse,quinstreet,sponsors,2026-11-26
 Qumulo,ashby,qumulo,hand,2026-11-26
+"Rad Ai, Inc.",ashby,radai,sponsors,2026-11-26
+"RadixArk, Inc.",ashby,radixark,sponsors,2026-11-26
 Railway,ashby,railway,hand,2026-11-26
 Rain,ashby,rain,hand,2026-11-26
 Ramp,greenhouse,ramp,hand,2026-11-26
 Read AI,ashby,read-ai,hand,2026-11-26
 Redis,ashby,redis,hand,2026-11-26
 Reducto,ashby,reducto,hand,2026-11-26
+"Redwood Materials, Inc.",greenhouse,redwoodmaterials,sponsors,2026-11-26
 Regie AI,greenhouse,regie,hand,2026-11-26
 Relativity,greenhouse,relativity,hand,2026-11-26
 Relevance AI,ashby,relevanceai,hand,2026-11-26
 Reliable Robotics,ashby,reliable-robotics,hand,2026-11-26
+"Reltio, Inc",greenhouse,reltio,sponsors,2026-11-26
 Remote,greenhouse,remote,hand,2026-11-26
 Render,ashby,render,hand,2026-11-26
 Replit,ashby,replit,hand,2026-11-26
+"Rescale, Inc.",ashby,rescale,sponsors,2026-11-26
 Resend,ashby,resend,hand,2026-11-26
+"Retell AI, Inc.",ashby,retell-ai,sponsors,2026-11-26
+"Revenue Analytics, Inc.",lever,revenueanalytics,sponsors,2026-11-26
 Revi,lever,revi,hand,2026-11-26
+"Revolution Medicines, Inc.",greenhouse,revolutionmedicines,sponsors,2026-11-26
+"Rhombus Power, Inc.",greenhouse,rhombuspower,sponsors,2026-11-26
 Rillet,ashby,rillet,hand,2026-11-26
 Rima,ashby,rima,hand,2026-11-26
 Riskified,greenhouse,riskified,hand,2026-11-26
+Roadie,greenhouse,roadie,sponsors,2026-11-26
 Robinhood,greenhouse,robinhood,hand,2026-11-26
+"Rocket Lawyer, Inc.",greenhouse,rocketlawyer,sponsors,2026-11-26
+"Rockstar Games, Inc.",greenhouse,rockstargames,sponsors,2026-11-26
 Rula Health,ashby,rula,hand,2026-11-26
 Runway,ashby,runway,hand,2026-11-26
+Sahaj Software Inc,greenhouse,sahajsoftware,sponsors,2026-11-26
 Samsara,greenhouse,samsara,hand,2026-11-26
 Sardine,ashby,sardine,hand,2026-11-26
 Saronic,ashby,saronic,hand,2026-11-26
 Scale AI,greenhouse,scaleai,hand,2026-11-26
+"Scopely, Inc.",greenhouse,scopely,sponsors,2026-11-26
+"SeatGeek, Inc.",greenhouse,seatgeek,sponsors,2026-11-26
 Secureframe,ashby,secureframe,hand,2026-11-26
 SeekOut,greenhouse,seekout,hand,2026-11-26
 Self Financial,greenhouse,selffinancial,hand,2026-11-26
 Semgrep,ashby,semgrep,hand,2026-11-26
 Sendbird,greenhouse,sendbird,hand,2026-11-26
 Sentry,ashby,sentry,hand,2026-11-26
+"Seven AI, Inc.",ashby,sevenai,sponsors,2026-11-26
 Sezzle,greenhouse,sezzle,hand,2026-11-26
 SF Compute,ashby,sfcompute,hand,2026-11-26
 Shield AI,greenhouse,shield,hand,2026-11-26
 Sierra,ashby,sierra,hand,2026-11-26
 Sift,ashby,sift,hand,2026-11-26
 Sigma Computing,greenhouse,sigmacomputing,hand,2026-11-26
+"Silicon, Inc.",greenhouse,silicon,sponsors,2026-11-26
+"SimpliSafe, Inc.",greenhouse,simplisafe,sponsors,2026-11-26
 SingleStore,greenhouse,singlestore,hand,2026-11-26
+"Sitetracker, Inc.",lever,sitetracker,sponsors,2026-11-26
 Sixfold,greenhouse,sixfold,hand,2026-11-26
 Skydio,ashby,skydio,hand,2026-11-26
+Slate,lever,slate,sponsors,2026-11-26
+Smarsh  Inc.,lever,smarsh,sponsors,2026-11-26
+SmartAsset,greenhouse,smartasset,sponsors,2026-11-26
 Smartsheet,greenhouse,smartsheet,hand,2026-11-26
+"SnapLogic, Inc.",lever,snaplogic,sponsors,2026-11-26
 Snorkel AI,greenhouse,snorkelai,hand,2026-11-26
 Snowflake,ashby,snowflake,hand,2026-11-26
 Snyk,ashby,snyk,hand,2026-11-26
 Socket,greenhouse,socket,hand,2026-11-26
 Socure,ashby,socure,hand,2026-11-26
 SoFi,greenhouse,sofi,hand,2026-11-26
+"Sonatus, Inc.",greenhouse,sonatus,sponsors,2026-11-26
 SonderMind,ashby,sondermind,hand,2026-11-26
+"SonicWall, Inc.",greenhouse,sonicwall,sponsors,2026-11-26
+"Sophos, Inc.",ashby,sophos,sponsors,2026-11-26
 Span,ashby,span,hand,2026-11-26
+Speak,ashby,speak,sponsors,2026-11-26
 Speakeasy,ashby,speakeasy,hand,2026-11-26
 Spherecast,ashby,spherecast,hand,2026-11-26
+Spire Inc.,greenhouse,spire,sponsors,2026-11-26
+"Spotter, Inc.",greenhouse,spotter,sponsors,2026-11-26
+"Spreetail, LLC",lever,spreetail,sponsors,2026-11-26
 Squarespace,greenhouse,squarespace,hand,2026-11-26
+Stack AV Co,greenhouse,stackav,sponsors,2026-11-26
+StackAdapt US Inc.,greenhouse,stackadapt,sponsors,2026-11-26
 StackBlitz,greenhouse,stackblitz,hand,2026-11-26
+Stackline,greenhouse,stackline,sponsors,2026-11-26
 Starburst,greenhouse,starburst,hand,2026-11-26
 Steel,ashby,steel,hand,2026-11-26
+"Stitch Fix, Inc.",greenhouse,stitchfix,sponsors,2026-11-26
 StockX,greenhouse,stockx,hand,2026-11-26
+"Strava, Inc.",ashby,strava,sponsors,2026-11-26
 Stream,ashby,stream,hand,2026-11-26
 Stripe,greenhouse,stripe,hand,2026-11-26
 Suki,greenhouse,suki,hand,2026-11-26
+Sumo Logic Inc.,greenhouse,sumologic,sponsors,2026-11-26
 Suno,ashby,suno,hand,2026-11-26
 Supabase,ashby,supabase,hand,2026-11-26
+SurveyMonkey Inc.,greenhouse,surveymonkey,sponsors,2026-11-26
 Sword Health,greenhouse,swordhealth,hand,2026-11-26
+Sygna LLC,greenhouse,sygna,sponsors,2026-11-26
 Synctera,ashby,synctera,hand,2026-11-26
+Syndigo LLC,greenhouse,syndigo,sponsors,2026-11-26
 Synthesia,ashby,synthesia,hand,2026-11-26
+"Sysdig, Inc.",lever,sysdig,sponsors,2026-11-26
+"TabaPay, Inc.",greenhouse,tabapay,sponsors,2026-11-26
 Tailscale,greenhouse,tailscale,hand,2026-11-26
 Talkspace,greenhouse,talkspace,hand,2026-11-26
+Tanium Inc.,greenhouse,tanium,sponsors,2026-11-26
+"TaskRabbit, Inc.",greenhouse,taskrabbit,sponsors,2026-11-26
+Tavus Inc.,ashby,tavus,sponsors,2026-11-26
+TBC Corporation,ashby,tbc,sponsors,2026-11-26
 Teiko,ashby,teiko,hand,2026-11-26
+Tekion Corp,ashby,tekion,sponsors,2026-11-26
 Temporal,ashby,temporal,hand,2026-11-26
 Tenstorrent,greenhouse,tenstorrent,hand,2026-11-26
+Tessera Labs Corporation,ashby,tessera-labs,sponsors,2026-11-26
+The Predictive Index LLC,greenhouse,predictiveindex,sponsors,2026-11-26
+The Wonderful Company LLC,ashby,wonderful,sponsors,2026-11-26
+"Thrive Market, Inc.",greenhouse,thrivemarket,sponsors,2026-11-26
+"Thumbtack, Inc.",ashby,thumbtack,sponsors,2026-11-26
 Tia,greenhouse,tia,hand,2026-11-26
 Tines,greenhouse,tines,hand,2026-11-26
 Titan,ashby,titan,hand,2026-11-26
 Toast,greenhouse,toast,hand,2026-11-26
 Together AI,greenhouse,togetherai,hand,2026-11-26
+"Topaz Labs, Inc.",lever,topazlabs,sponsors,2026-11-26
+"TORC Robotics, Inc.",greenhouse,torcrobotics,sponsors,2026-11-26
+"Toshiba Global Commerce Solutions, Inc.",greenhouse,toshibaglobalcommercesolutions,sponsors,2026-11-26
+Tower Research Capital LLC,greenhouse,towerresearchcapital,sponsors,2026-11-26
+Traba Inc.,ashby,traba,sponsors,2026-11-26
 Treasury Prime,greenhouse,treasuryprime,hand,2026-11-26
+"Trepp, Inc.",greenhouse,trepp,sponsors,2026-11-26
 Trigger dev,ashby,triggerdev,hand,2026-11-26
+TripAdvisor LLC,greenhouse,tripadvisor,sponsors,2026-11-26
+TRM Labs Inc.,ashby,trm-labs,sponsors,2026-11-26
 Truveta,greenhouse,truveta,hand,2026-11-26
+"TTEC Digital, LLC",lever,ttecdigital,sponsors,2026-11-26
+TubiTV,greenhouse,tubitv,sponsors,2026-11-26
 Tutor Intelligence,ashby,tutor-intelligence,hand,2026-11-26
 Twilio,greenhouse,twilio,hand,2026-11-26
+"Twin Health, Inc.",greenhouse,twinhealth,sponsors,2026-11-26
+Twist Bioscience Corporation,greenhouse,twistbioscience,sponsors,2026-11-26
 Two Chairs,greenhouse,twochairs,hand,2026-11-26
 Uber Freight,greenhouse,uberfreight,hand,2026-11-26
+"Udemy, Inc.",greenhouse,udemy,sponsors,2026-11-26
 UiPath,ashby,uipath,hand,2026-11-26
 Unify,ashby,unify,hand,2026-11-26
 Unit,ashby,unit,hand,2026-11-26
 Unqork,greenhouse,unqork,hand,2026-11-26
 Unstructured,ashby,unstructured,hand,2026-11-26
+"Upgrade, Inc.",greenhouse,upgrade,sponsors,2026-11-26
+Upshop LLC,greenhouse,upshop,sponsors,2026-11-26
 Upstart,greenhouse,upstart,hand,2026-11-26
+Upwork Inc.,greenhouse,upwork,sponsors,2026-11-26
 Vanta,ashby,vanta,hand,2026-11-26
 Varda Space,greenhouse,vardaspace,hand,2026-11-26
 Vast AI,ashby,vastai,hand,2026-11-26
+"Veracyte, Inc.",greenhouse,veracyte,sponsors,2026-11-26
+"Verana Health, Inc.",greenhouse,veranahealth,sponsors,2026-11-26
 Vercel,greenhouse,vercel,hand,2026-11-26
+"VeriFone, Inc.",greenhouse,verifone,sponsors,2026-11-26
+"VeriSign, Inc.",greenhouse,verisign,sponsors,2026-11-26
+Verra Mobility,greenhouse,verramobility,sponsors,2026-11-26
+"Vestmark, Inc.",greenhouse,vestmark,sponsors,2026-11-26
+viagogo Inc.,greenhouse,viagogo,sponsors,2026-11-26
+Viant Technology LLC,greenhouse,vianttechnology,sponsors,2026-11-26
+"VideoAmp, Inc.",greenhouse,videoamp,sponsors,2026-11-26
 Virta Health,ashby,virtahealth,hand,2026-11-26
 Vitally,ashby,vitally,hand,2026-11-26
+Vonage America Llc,greenhouse,vonage,sponsors,2026-11-26
 Waabi,lever,waabi,hand,2026-11-26
+Walleye Capital LLC,greenhouse,walleyecapital,sponsors,2026-11-26
 Warp,greenhouse,warp,hand,2026-11-26
 Watershed,greenhouse,watershed,hand,2026-11-26
 Wealthfront,lever,wealthfront,hand,2026-11-26
 Wealthsimple,ashby,wealthsimple,hand,2026-11-26
 Weaviate,ashby,weaviate,hand,2026-11-26
+"webAI, Inc",ashby,webai,sponsors,2026-11-26
 Webflow,greenhouse,webflow,hand,2026-11-26
+Weee! Inc.,greenhouse,weee,sponsors,2026-11-26
 Windward,ashby,windward,hand,2026-11-26
+"Wisdom AI, Inc.",ashby,wisdom-ai,sponsors,2026-11-26
+Wise US Inc.,greenhouse,wise,sponsors,2026-11-26
 Workato,greenhouse,workato,hand,2026-11-26
 WorkOS,ashby,workos,hand,2026-11-26
+WPP Media,greenhouse,wppmedia,sponsors,2026-11-26
 Writer,ashby,writer,hand,2026-11-26
 Wynd Labs,ashby,wynd-labs,hand,2026-11-26
+"Xage Security, Inc.",lever,xage-security,sponsors,2026-11-26
+"XERO, Inc.",ashby,xero,sponsors,2026-11-26
+Xometry Inc.,greenhouse,xometry,sponsors,2026-11-26
+"Xsolla (USA), Inc.",lever,xsolla,sponsors,2026-11-26
+Yes Energy LLC,greenhouse,yesenergy,sponsors,2026-11-26
+"Yext, Inc.",greenhouse,yext,sponsors,2026-11-26
+"Yieldmo, Inc.",greenhouse,yieldmo,sponsors,2026-11-26
+You.com,greenhouse,youcom,sponsors,2026-11-26
 Zapier,ashby,zapier,hand,2026-11-26
 Zed,ashby,zed,hand,2026-11-26
+"ZEFR, Inc.",ashby,zefr,sponsors,2026-11-26
+Zest Ai,greenhouse,zestai,sponsors,2026-11-26
+Zeta Global Corp.,greenhouse,zetaglobal,sponsors,2026-11-26
 Zilliz,ashby,zilliz,hand,2026-11-26
+"Zimperium, Inc.",lever,zimperium,sponsors,2026-11-26
+Zinnia,greenhouse,zinnia,sponsors,2026-11-26
 Zip,ashby,zip,hand,2026-11-26
+"ZipRecruiter, Inc.",greenhouse,ziprecruiter,sponsors,2026-11-26
+"Zocdoc, Inc.",greenhouse,zocdoc,sponsors,2026-11-26
+"Zuora, Inc.",greenhouse,zuora,sponsors,2026-11-26
 Zus Health,lever,zushealth,hand,2026-11-26
