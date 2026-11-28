@@ -6,14 +6,14 @@ Attention,1,ashby:attention,,,
 Branch,1,greenhouse:branch,,,
 Calendly,1,greenhouse:calendly,,,
 Chainguard,1,greenhouse:chainguard,,,
-Clerk,1,ashby:clerk,,,
+Clerk,1,ashby:clerk,researched,,batch 2026-11-27; Braden Sidoti
 Clover Health,1,greenhouse:cloverhealth,,,
 Column,1,ashby:column,,,
 Comet,1,greenhouse:comet,researched,,batch 2026-11-26; Nimrod Lahav
 Cube,1,ashby:cube,researched,,batch 2026-11-26; Pavel Tiunov
 DailyPay,1,ashby:dailypay,,,
 Develop Health,1,ashby:develop-health,researched,,batch 2026-11-26; Mel van Londen
-Fathom,1,ashby:fathom,,,
+Fathom,1,ashby:fathom,skipped,,no Apollo match under 500 employees
 Filevine,1,lever:filevine,,,
 FlutterFlow,1,ashby:flutterflow,,,
 Forward,1,greenhouse:forward,,,
@@ -32,7 +32,7 @@ Material Security,1,ashby:materialsecurity,,,
 Middesk,1,ashby:middesk,,,
 Motive,1,greenhouse:motive,,,
 Mux,1,ashby:mux,,,
-Nabla,1,ashby:nabla,,,
+Nabla,1,ashby:nabla,researched,,batch 2026-11-27; Martin Raison
 Olo,1,lever:olo,,,
 Orca Security,1,greenhouse:orcasecurity,,,
 Pagaya,1,greenhouse:pagaya,,,
@@ -40,16 +40,16 @@ Paradox,1,ashby:paradox,,,
 Patch,1,greenhouse:patch,,,
 Prismatic,1,greenhouse:prismatic,researched,,batch 2026-11-26; Tanner Burson
 Pulley,1,greenhouse:pulley,,,
-Railway,1,ashby:railway,,,
+Railway,1,ashby:railway,researched,,batch 2026-11-27; Jake Cooper
 Revi,1,lever:revi,,,
 Riskified,1,greenhouse:riskified,,,
-Socket,1,greenhouse:socket,,,
+Socket,1,greenhouse:socket,researched,,batch 2026-11-27; Feross Aboukhadijeh
 Tines,1,greenhouse:tines,,,
 Titan,1,ashby:titan,,,
 Treasury Prime,1,greenhouse:treasuryprime,,,
 Tutor Intelligence,1,ashby:tutor-intelligence,,,
 Unit,1,ashby:unit,,,
-Warp,1,greenhouse:warp,,,
+Warp,1,greenhouse:warp,researched,,batch 2026-11-27; Zach Lloyd
 Wealthsimple,1,ashby:wealthsimple,,,
 15Five,2,lever:15five,,,
 Arch,2,ashby:arch,,,
@@ -59,16 +59,16 @@ Atomic,2,ashby:atomic,,,
 Braintrust,2,ashby:braintrust,researched,,batch 2026-11-26; Ankur Goyal
 Campfire,2,ashby:campfire,,,
 ChowNow,2,lever:chownow,,,
-Cortex,2,greenhouse:cortex,,,
+Cortex,2,greenhouse:cortex,researched,,batch 2026-11-27; Ganesh Datta
 Forter,2,greenhouse:forter,,,
 Found,2,greenhouse:found,,,
 Foundry,2,greenhouse:foundry,,,
-Honeycomb,2,greenhouse:honeycomb,,,
+Honeycomb,2,greenhouse:honeycomb,researched,,batch 2026-11-27; Charity Majors
 Hyperproof,2,greenhouse:hyperproof,,,
 Juicebox,2,ashby:juicebox,researched,,batch 2026-11-26; Ishan Gupta
 Keebler Health,2,ashby:keebler-health,skipped,,no hook in last 6 months (latest Apr 2026 Series A)
 Khan Academy,2,greenhouse:khanacademy,,,
-Lightning AI,2,greenhouse:lightningai,,,
+Lightning AI,2,greenhouse:lightningai,researched,,batch 2026-11-27; Saurabh Giri
 Lithic,2,greenhouse:lithic,,,
 Metabase,2,lever:metabase,researched,,batch 2026-11-26; Sameer Al-Sakran
 Mintlify,2,ashby:mintlify,researched,,batch 2026-11-26; Hahnbee Lee
@@ -94,7 +94,7 @@ Descript,3,greenhouse:descript,,,
 Ethos,3,greenhouse:ethos,,,
 Gorgias,3,ashby:gorgias,,,
 Health Gorilla,3,ashby:healthgorilla,researched,,batch 2026-11-26; Ryan Smith
-Hightouch,3,ashby:hightouch,,,
+Hightouch,3,ashby:hightouch,skipped,,no Apollo match under 500 employees
 Ladder,3,ashby:ladder,,,
 LaunchDarkly,3,greenhouse:launchdarkly,,,
 Locus Robotics,3,greenhouse:locusrobotics,,,
@@ -106,11 +106,11 @@ Paraform,3,ashby:paraform,researched,,batch 2026-11-26; Jeffrey Li
 Redis,3,ashby:redis,,,
 Shield AI,3,greenhouse:shield,,,
 Tia,3,greenhouse:tia,,,
-WorkOS,3,ashby:workos,,,
+WorkOS,3,ashby:workos,researched,,batch 2026-11-27; Michael Grinich
 Anterior,4,ashby:anterior,researched,,batch 2026-11-26; Abdel Mahmoud
 Astronomer,4,ashby:astronomer,skipped,,no Apollo match under 500 employees
 At Bay,4,greenhouse:atbay,,,
-Descope,4,greenhouse:descope,,,
+Descope,4,greenhouse:descope,researched,,batch 2026-11-27; Slavik Markovich
 Etched,4,ashby:etched,,,
 FullStory,4,ashby:fullstory,,,
 Garner Health,4,greenhouse:garnerhealth,,,
@@ -134,12 +134,12 @@ Rula Health,5,ashby:rula,,,
 Sendbird,5,greenhouse:sendbird,,,
 Unqork,5,greenhouse:unqork,,,
 Abnormal Security,6,greenhouse:abnormalsecurity,,,
-Baseten,6,ashby:baseten,,,
+Baseten,6,ashby:baseten,researched,,batch 2026-11-27; Amir Haghighat
 Factory,6,ashby:factory,skipped,,no Apollo match for factory.ai under 500 employees
-Finch,6,ashby:finch,,,
-Gamma,6,ashby:gamma,,,
-LiveKit,6,ashby:livekit,,,
-Render,6,ashby:render,,,
+Finch,6,ashby:finch,researched,,batch 2026-11-27; Jeremy Zhang
+Gamma,6,ashby:gamma,researched,,batch 2026-11-27; James Fox
+LiveKit,6,ashby:livekit,researched,,batch 2026-11-27; David Zhao
+Render,6,ashby:render,researched,,batch 2026-11-27; Anurag Goel
 StockX,6,greenhouse:stockx,,,
 "AcuityMD, Inc.",7,greenhouse:acuitymd,,,
 Aurora Solar,7,ashby:aurorasolar,,,
@@ -155,17 +155,17 @@ Self Financial,7,greenhouse:selffinancial,,,
 AccuWeather,8,greenhouse:accuweather,,,
 Alloy,8,greenhouse:alloy,,,
 "Assort Health, Inc.",8,ashby:assorthealth,researched,,
-Atlan,8,ashby:atlan,,,
+Atlan,8,ashby:atlan,researched,,batch 2026-11-27; Varun Banka
 "Avathon, Inc.",8,greenhouse:avathon,,,
 "BetterUp, Inc.",8,ashby:betterup,,,
-Boson AI USA Inc.,8,lever:bosonai,,,
+Boson AI USA Inc.,8,lever:bosonai,researched,,batch 2026-11-27; Mu Li
 "Bracebridge Capital, LLC",8,greenhouse:bracebridgecapital,,,
 Capstone Investment Advisors LLC,8,greenhouse:capstoneinvestmentadvisors,,,
 Certa,8,ashby:certa,,,
 "Clarkson Eyecare, LLC",8,greenhouse:clarksoneyecare,,,
-Coder,8,ashby:coder,,,
+Coder,8,ashby:coder,skipped,,no Apollo match under 500 employees
 "Diligent Robotics, Inc.",8,greenhouse:diligentrobotics,,,
-Domino Data Lab,8,greenhouse:dominodatalab,,,
+Domino Data Lab,8,greenhouse:dominodatalab,researched,,batch 2026-11-27; Nick Elprin
 Dremio,8,greenhouse:dremio,skipped,,acquired by SAP (closed 2026-07-06)
 "DV01, Inc",8,greenhouse:dv01,,,
 Empower Pharmacy,8,greenhouse:empowerpharmacy,,,
@@ -175,7 +175,7 @@ Finfare Financial Inc.,8,greenhouse:finfare-financial,,,
 Gopuff,8,lever:gopuff,,,
 Grow Therapy,8,ashby:grow-therapy,,,
 Hoyoverse,8,greenhouse:hoyoverse,,,
-"Inferact, Inc.",8,ashby:inferact,,,
+"Inferact, Inc.",8,ashby:inferact,researched,,batch 2026-11-27; Woosuk Kwon
 Intercom,8,greenhouse:intercom,,,
 "iSpot.tv, Inc.",8,greenhouse:ispottv,,,
 Kayak,8,ashby:kayak,,,
@@ -184,7 +184,7 @@ May Mobility,8,greenhouse:maymobility,,,
 Nasuni Corporation,8,greenhouse:nasuni,,,
 New Relic,8,greenhouse:newrelic,,,
 Nexla Inc.,8,greenhouse:nexla,researched,,
-Notable Health,8,ashby:notable,,,
+Notable Health,8,ashby:notable,skipped,,no Apollo match under 500 employees
 "Nuance Labs, Inc.",8,greenhouse:nuancelabs,,,
 "Oliver Wyman, LLC",8,lever:oliverwyman,,,
 "Onbe, Inc.",8,greenhouse:onbe,,,
@@ -241,7 +241,7 @@ SeekOut,9,greenhouse:seekout,,,
 SmartAsset,9,greenhouse:smartasset,,,
 Span,9,ashby:span,,,
 Speak,9,ashby:speak,,,
-Speakeasy,9,ashby:speakeasy,,,
+Speakeasy,9,ashby:speakeasy,researched,,batch 2026-11-27; Sagar Batchu
 StackAdapt US Inc.,9,greenhouse:stackadapt,,,
 Suno,9,ashby:suno,,,
 "Topaz Labs, Inc.",9,lever:topazlabs,,,
@@ -289,7 +289,7 @@ Future Secure AI USA Inc.,11,greenhouse:futuresecureai,,,
 "Galatea Associates, LLC",11,lever:galatea-associates,,,
 Hooglee Corp.,11,ashby:hooglee,,,
 Maven Clinic,11,greenhouse:mavenclinic,,,
-Merge,11,greenhouse:merge,,,
+Merge,11,greenhouse:merge,researched,,batch 2026-11-27; Gil Feig
 NeuraFlash,11,greenhouse:neuraflash,,,
 "NextRoll, Inc.",11,greenhouse:nextroll,,,
 "NTT Data AIVista, Inc.",11,ashby:ntt-data-aivista,,,
@@ -299,7 +299,7 @@ Palmetto,11,greenhouse:palmetto,,,
 "Seven AI, Inc.",11,ashby:sevenai,researched,,
 Sift,11,ashby:sift,,,
 SoFi,11,greenhouse:sofi,,,
-Tavus Inc.,11,ashby:tavus,,,
+Tavus Inc.,11,ashby:tavus,researched,,batch 2026-11-27; Hassaan Raza
 The Predictive Index LLC,11,greenhouse:predictiveindex,,,
 Traba Inc.,11,ashby:traba,,,
 viagogo Inc.,11,greenhouse:viagogo,,,
@@ -317,7 +317,7 @@ Claritas Rx Inc.,12,greenhouse:claritasrx,,,
 ConcertAI,12,greenhouse:concertai,,,
 Drata,12,ashby:drata,,,
 Earnest LLC,12,greenhouse:earnest,,,
-Eudia,12,greenhouse:eudia,,,
+Eudia,12,greenhouse:eudia,researched,,batch 2026-11-27; Ashish Agrawal
 FalconX,12,greenhouse:falconx,,,
 "Fashion Nova, LLC",12,greenhouse:fashionnova,,,
 "Forward Networks, Inc.",12,greenhouse:forwardnetworks,,,
@@ -328,7 +328,7 @@ FalconX,12,greenhouse:falconx,,,
 "Liaison International, LLC",12,greenhouse:liaisoninternational,,,
 Lightmatter,12,greenhouse:lightmatter,,,
 "Memx, Llc",12,greenhouse:memx,,,
-Modal,12,ashby:modal,,,
+Modal,12,ashby:modal,researched,,batch 2026-11-27; Akshat Bubna
 Runway,12,ashby:runway,,,
 "Spreetail, LLC",12,lever:spreetail,,,
 Starburst,12,greenhouse:starburst,,,
@@ -351,7 +351,7 @@ Outreach,13,lever:outreach,,,
 "Overjet, Inc.",13,ashby:overjet,,,
 PathAI,13,greenhouse:pathai,,,
 Polymarket,13,ashby:polymarket,,,
-Profound,13,greenhouse:profound,,,
+Profound,13,greenhouse:profound,researched,,batch 2026-11-27; Dylan Babbs
 "Rad Ai, Inc.",13,ashby:radai,,,
 "Spotter, Inc.",13,greenhouse:spotter,,,
 SurveyMonkey Inc.,13,greenhouse:surveymonkey,,,
@@ -380,7 +380,7 @@ TBC Corporation,14,ashby:tbc,,,
 Writer,14,ashby:writer,,,
 "XERO, Inc.",14,ashby:xero,,,
 Apollo.io,15,greenhouse:apolloio,,,
-"Augment Computing, Inc.",15,greenhouse:augmentcomputing,,,
+"Augment Computing, Inc.",15,greenhouse:augmentcomputing,skipped,,Apollo lists as Augment Code by Harness (acquired)
 "Bandwidth, Inc.",15,greenhouse:bandwidth,,,
 Character AI,15,ashby:character,,,
 Current,15,greenhouse:current,,,
